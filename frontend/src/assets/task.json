@@ -1,0 +1,60 @@
+[
+{"taskId":1,"groupId":"TR001","codeId":"ZDUM1","codeNm":"주업무"}
+,{"taskId":2,"groupId":"TR001","codeId":"ZDUM4","codeNm":"휴가"}
+,{"taskId":3,"groupId":"TR001","codeId":"ZDUM5","codeNm":"출장"}
+,{"taskId":4,"groupId":"TR002","codeId":"P001","codeNm":"프로젝트 사전준비 - 장비출고 VOC취합 현황조사"}
+,{"taskId":5,"groupId":"TR002","codeId":"P002","codeNm":"프로젝트 계획 분석 - 기술검토 착수 요구사항 수집 정의 명세 리뷰"}
+,{"taskId":6,"groupId":"TR002","codeId":"P003","codeNm":"프로젝트 설계 - 설계서 시험계획서"}
+,{"taskId":7,"groupId":"TR002","codeId":"P004","codeNm":"프로젝트 구현 개발 - 코딩 코드리뷰 시험 코드분석"}
+,{"taskId":8,"groupId":"TR002","codeId":"P005","codeNm":"프로젝트 테스트 - 단위 통합 테스트"}
+,{"taskId":9,"groupId":"TR002","codeId":"P006","codeNm":"프로젝트 종료 - 산출물 적용 완료보고"}
+,{"taskId":10,"groupId":"TR002","codeId":"P007","codeNm":"프로젝트 안정화 - 모니터링 및 대응"}
+,{"taskId":11,"groupId":"TR002","codeId":"P008","codeNm":"프로젝트 기술지원 - HW 및 SW 납품 설치 패치"}
+,{"taskId":12,"groupId":"TR002","codeId":"P009","codeNm":"프로젝트 오픈 - 모니터링 추가요구사항 반영 산출물 검수"}
+,{"taskId":13,"groupId":"TR002","codeId":"P010","codeNm":"선제안개발(선투입) - 조사, 분석, 제안서작성, 발표, 시연, Proto Type 제작"}
+,{"taskId":14,"groupId":"TR002","codeId":"P011","codeNm":"유지보수(유상) - 점검 장애처리 SR 모니터링 고객 기술교육 계약 손익 관리"}
+,{"taskId":15,"groupId":"TR002","codeId":"P012","codeNm":"유지보수(무상) - 점검 장애처리 SR 모니터링 고객 기술교육"}
+,{"taskId":16,"groupId":"TR002","codeId":"P013","codeNm":"R&D - 시장조사, 분석, 계획, 설계 개발 테스트 이행"}
+,{"taskId":17,"groupId":"TR002","codeId":"P014","codeNm":"교육지원 - 사용자 및 운영자 교육"}
+,{"taskId":18,"groupId":"TR002","codeId":"P015","codeNm":"기타 업무지원 - 영업,프로젝트 업무지원"}
+,{"taskId":19,"groupId":"TR002","codeId":"P016","codeNm":"휴가"}
+,{"taskId":20,"groupId":"TR002","codeId":"P017","codeNm":"출장"}
+,{"taskId":21,"groupId":"TR002","codeId":"P018","codeNm":"(재택) 유상 유지보수"}
+,{"taskId":22,"groupId":"ZDUM1","codeId":"Z001","codeNm":"R&D 및 내부 PJT (NonPJT코드) - 시장조사, 분석, 계획, 설계 개발 테스트 이행"}
+,{"taskId":23,"groupId":"ZDUM1","codeId":"Z002","codeNm":"영업지원 - Presales 컨설팅 제안서 기술자료 제안발표 BMT POC설치 세미나"}
+,{"taskId":24,"groupId":"ZDUM1","codeId":"Z003","codeNm":"영업활동 - 솔루션 디자인 견적 제안서 작성 계약진행 고객회의"}
+,{"taskId":25,"groupId":"ZDUM1","codeId":"Z004","codeNm":"선제안개발(선투입) - 조사, 분석, 제안서작성, 발표, 시연, Proto Type 제작"}
+,{"taskId":26,"groupId":"ZDUM1","codeId":"Z005","codeNm":"사업기획 - 사업 기획 및 발굴 활동"}
+,{"taskId":27,"groupId":"ZDUM1","codeId":"Z006","codeNm":"사내회의 - 파트 팀 전사 단위"}
+,{"taskId":28,"groupId":"ZDUM1","codeId":"Z007","codeNm":"혁신과제 - 혁신교육 과제발굴 회의 챔피언데이 발표"}
+,{"taskId":29,"groupId":"ZDUM1","codeId":"Z008","codeNm":"내부교육 - 신규직원교육 사이버 IT트렌드 법정의무교육"}
+,{"taskId":30,"groupId":"ZDUM1","codeId":"Z009","codeNm":"외부교육 - 외부세미나 위부위탁 컨퍼런스"}
+,{"taskId":31,"groupId":"ZDUM1","codeId":"Z010","codeNm":"경영계획수립 - 경영계획 및 중기전략수립"}
+,{"taskId":32,"groupId":"ZDUM1","codeId":"Z011","codeNm":"사내행사 - 시무식 워크샵 H-Day 등"}
+,{"taskId":33,"groupId":"ZDUM1","codeId":"Z012","codeNm":"경영지원 - 전략,인사,재무,구매 지원 업무"}
+,{"taskId":34,"groupId":"ZDUM1","codeId":"Z013","codeNm":"팀 업무지원 - 팀행사, 팀기획, 팀내 보고자료작성 및 보고"}
+,{"taskId":35,"groupId":"ZDUM1","codeId":"Z014","codeNm":"타팀 업무지원 - 타부서 협업, 팀 제외 보고자료작성 및 보고"}
+,{"taskId":36,"groupId":"ZDUM1","codeId":"Z015","codeNm":"기타 업무"}
+,{"taskId":37,"groupId":"ZDUM1","codeId":"Z016","codeNm":"품질 보안 - 수행계획 실행 보고"}
+,{"taskId":38,"groupId":"ZDUM1","codeId":"Z017","codeNm":"프로젝트관리 - 사전 진행 종료 검토"}
+,{"taskId":39,"groupId":"ZDUM1","codeId":"Z018","codeNm":"휴게시간"}
+,{"taskId":40,"groupId":"ZDUM4","codeId":"03","codeNm":"Refresh휴가"}
+,{"taskId":41,"groupId":"ZDUM4","codeId":"04","codeNm":"부임휴가"}
+,{"taskId":42,"groupId":"ZDUM4","codeId":"07","codeNm":"경조휴가"}
+,{"taskId":43,"groupId":"ZDUM4","codeId":"0E","codeNm":"오전반반차"}
+,{"taskId":44,"groupId":"ZDUM4","codeId":"0F","codeNm":"오후반반차"}
+,{"taskId":45,"groupId":"ZDUM4","codeId":"13","codeNm":"예비군훈련"}
+,{"taskId":46,"groupId":"ZDUM4","codeId":"18","codeNm":"년차"}
+,{"taskId":47,"groupId":"ZDUM4","codeId":"19","codeNm":"출산전후휴가"}
+,{"taskId":48,"groupId":"ZDUM4","codeId":"38","codeNm":"happy휴가"}
+,{"taskId":49,"groupId":"ZDUM4","codeId":"40","codeNm":"보상휴가"}
+,{"taskId":50,"groupId":"ZDUM4","codeId":"41","codeNm":"보상휴가-반"}
+,{"taskId":51,"groupId":"ZDUM4","codeId":"72","codeNm":"배우자출산휴가(유급)"}
+,{"taskId":52,"groupId":"ZDUM4","codeId":"A3","codeNm":"오전반차"}
+,{"taskId":53,"groupId":"ZDUM4","codeId":"A4","codeNm":"오후반차"}
+,{"taskId":54,"groupId":"ZDUM4","codeId":"F1","codeNm":"태아검진-반"}
+,{"taskId":55,"groupId":"ZDUM4","codeId":"F3","codeNm":"백신휴가(공가)"}
+,{"taskId":56,"groupId":"ZDUM4","codeId":"F4","codeNm":"확진휴가"}
+,{"taskId":57,"groupId":"ZDUM5","codeId":"30","codeNm":"해외출장"}
+,{"taskId":58,"groupId":"ZDUM5","codeId":"31","codeNm":"국내출장"}
+]

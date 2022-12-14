@@ -1,0 +1,32 @@
+[
+  {
+    "group" : "OT001",
+    "group_name": "초과 근무 메일 대상",
+    "code_num": "1",
+    "code_name": "050738",
+    "sequence": "1",
+    "able_use": "Y",
+    "writer": "이재성",
+    "write_date": "20200811"
+  },
+  {
+    "group": "OT001",
+    "group_name": "초과 근무 메일 대상",
+    "code_num": "1",
+    "code_name": "050738",
+    "sequence": "1",
+    "able_use": "Y",
+    "writer": "이재성",
+    "write_date": "20200813"
+  },
+  {
+    "group" : "OT001",
+    "group_name": "초과 근무 메일 대상",
+    "code_num": "1",
+    "code_name": "050738",
+    "sequence": "1",
+    "able_use": "Y",
+    "writer": "이재성",
+    "write_date": "20200814"
+  }
+]

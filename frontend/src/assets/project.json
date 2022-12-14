@@ -1,0 +1,355 @@
+[
+{"projectId":825,"projectCode":"CRM-0013.060","projectNm":"SKT\/OVOC 업그레이드_22","startedAt":"22\/06\/10","endedAt":"22\/10\/31","projectManager":"민정식"}
+,{"projectId":826,"projectCode":"CRM-0142.166","projectNm":"한전\/전기사용계약정보 시나리오 기계음 송출_22","startedAt":"22\/06\/02","endedAt":"22\/06\/30","projectManager":"손진호"}
+,{"projectId":827,"projectCode":"CRM-0079.105","projectNm":"KB국민은행\/콜센터통합_유상_2022","startedAt":"22\/06\/01","endedAt":"23\/05\/31","projectManager":"진재욱"}
+,{"projectId":828,"projectCode":"CRM-0088.080","projectNm":"SK매직 헤드셋","startedAt":"22\/06\/01","endedAt":"22\/06\/22","projectManager":"문기남"}
+,{"projectId":829,"projectCode":"CRM-0142.165","projectNm":"한전\/광주전남 선택녹취(감정노동)_22","startedAt":"22\/06\/01","endedAt":"22\/07\/08","projectManager":"손진호"}
+,{"projectId":830,"projectCode":"CRM-0315.010","projectNm":"이베이\/상담시스템_SM_유상_2022","startedAt":"22\/06\/01","endedAt":"23\/05\/31","projectManager":"정회은"}
+,{"projectId":831,"projectCode":"SVC-0010.009","projectNm":"신한금융투자\/디지털컨택센터 (서비스 공급)_2년차","startedAt":"22\/06\/01","endedAt":"23\/05\/31","projectManager":"정창희"}
+,{"projectId":832,"projectCode":"SVC-0010.010","projectNm":"신한금융투자\/디지털컨택센터 (운용)_2년차","startedAt":"22\/06\/01","endedAt":"23\/05\/31","projectManager":"정창희"}
+,{"projectId":833,"projectCode":"CRM-0002.087","projectNm":"삼성증권\/본사 및 지점 IPT 고도화","startedAt":"22\/05\/27","endedAt":"22\/12\/30","projectManager":"700150"}
+,{"projectId":834,"projectCode":"CRM-0002.088","projectNm":"삼성증권\/본사 및 지점 IPT 고도화_구독","startedAt":"22\/05\/27","endedAt":"22\/12\/30","projectManager":"700150"}
+,{"projectId":835,"projectCode":"MOB-1010.002","projectNm":"SKT\/2022년_지능망 리빌딩에 따른 MMSC 연동 기능 변경 개발","startedAt":"22\/05\/27","endedAt":"22\/10\/31","projectManager":"위장민"}
+,{"projectId":836,"projectCode":"MOB-1010.003","projectNm":"SKT\/2022년_MMS Single\/Dual SIM 단말간 착신통계 개","startedAt":"22\/05\/27","endedAt":"22\/11\/30","projectManager":"위장민"}
+,{"projectId":837,"projectCode":"MOB-2010.005","projectNm":"KT\/2022년_NW RISK 대응을 위한 SMSC 고도화 개발","startedAt":"22\/05\/26","endedAt":"22\/07\/29","projectManager":"김해영"}
+,{"projectId":838,"projectCode":"ITS-0331.056","projectNm":"2022년 에스닥스 전용선 공급","startedAt":"22\/05\/25","endedAt":"22\/12\/31","projectManager":"구관중"}
+,{"projectId":839,"projectCode":"CRM-0017.086","projectNm":"교보생명 디지털ARS\/보이는 ACS 구축","startedAt":"22\/05\/23","endedAt":"22\/11\/22","projectManager":"김영래"}
+,{"projectId":840,"projectCode":"CRM-0205.054","projectNm":"AIG\/VR 부분 추가 수정 개발","startedAt":"22\/05\/23","endedAt":"22\/07\/31","projectManager":"문기남"}
+,{"projectId":841,"projectCode":"MOB-1010.001","projectNm":"SKT\/2022년 인터넷문자발송 사업자 식별코드 KISA 신고개발","startedAt":"22\/05\/23","endedAt":"22\/10\/31","projectManager":"위장민"}
+,{"projectId":842,"projectCode":"CRM-0205.055","projectNm":"AIG손보 헤드셋 납품 (25EA)","startedAt":"22\/05\/17","endedAt":"22\/06\/30","projectManager":"문기남"}
+,{"projectId":843,"projectCode":"MOB-2010.002","projectNm":"KT\/2022년 SMSC_IPSMGW 국사이원화 증설","startedAt":"22\/05\/17","endedAt":"23\/06\/22","projectManager":"송혁신"}
+,{"projectId":844,"projectCode":"CRM-0034.082","projectNm":"현대홈쇼핑 AICC 시스템 구축(콜인프라 연동)","startedAt":"22\/05\/16","endedAt":"23\/01\/23","projectManager":"임석균"}
+,{"projectId":845,"projectCode":"CRM-0046.123","projectNm":"롯데카드\/카드센터 MO서비스 추가 개발 件","startedAt":"22\/05\/16","endedAt":"22\/07\/31","projectManager":"문기남"}
+,{"projectId":846,"projectCode":"CRM-0319.009","projectNm":"신한금융투자_ICT 챗봇 채널추가 개발","startedAt":"22\/05\/16","endedAt":"22\/07\/22","projectManager":"정창희"}
+,{"projectId":847,"projectCode":"ITS-0301.160","projectNm":"2022년 한솔제지 수출Visibility 시스템 구축","startedAt":"22\/05\/16","endedAt":"22\/12\/30","projectManager":"이준호"}
+,{"projectId":848,"projectCode":"ITS-0323.003","projectNm":"아이원스 ERP 구축 PI","startedAt":"22\/05\/16","endedAt":"22\/08\/12","projectManager":"김진태"}
+,{"projectId":849,"projectCode":"MOB-2010.004","projectNm":"KTDS\/KT\/2022년 MTS 클라우드 개발","startedAt":"22\/05\/11","endedAt":"22\/11\/30","projectManager":"박병걸"}
+,{"projectId":850,"projectCode":"CRM-0034.081","projectNm":"현대홈쇼핑 상담대기현황 및 알림톡(콜게이트 수정포함)","startedAt":"22\/05\/09","endedAt":"22\/08\/31","projectManager":"임석균"}
+,{"projectId":851,"projectCode":"CRM-0046.124","projectNm":"롯데카드\/서버 모니터링 솔루션 고도화(MCCS)","startedAt":"22\/05\/09","endedAt":"22\/07\/08","projectManager":"문기남"}
+,{"projectId":852,"projectCode":"ITS-0305.124","projectNm":"한솔테크닉스 태국법인 원자재 과부족시뮬레이션","startedAt":"22\/05\/02","endedAt":"22\/07\/15","projectManager":"김지희"}
+,{"projectId":853,"projectCode":"ITS-0314.047","projectNm":"2022년 지류유통 B2B 온라인몰 구축","startedAt":"22\/05\/02","endedAt":"22\/11\/30","projectManager":"이승진"}
+,{"projectId":854,"projectCode":"MOB-2030.004","projectNm":"KTDS\/KT\/2022년_GMMSC 최초발신사업자 식별코드개발","startedAt":"22\/05\/02","endedAt":"22\/09\/30","projectManager":"박병걸"}
+,{"projectId":855,"projectCode":"CRM-0001.067","projectNm":"삼성카드고객서비스\/위드원시스템\/22년 유상","startedAt":"22\/05\/01","endedAt":"22\/12\/31","projectManager":"이문용"}
+,{"projectId":856,"projectCode":"CRM-0002.085","projectNm":"삼성증권 IPCC 고도화 추가 개발 계약","startedAt":"22\/05\/01","endedAt":"22\/07\/13","projectManager":"고철주"}
+,{"projectId":857,"projectCode":"CRM-0025.079","projectNm":"신한-오렌지 IT 통합 일정 연기에 따른 공수 추가","startedAt":"22\/05\/01","endedAt":"22\/09\/30","projectManager":"신민석"}
+,{"projectId":858,"projectCode":"CRM-0065.029","projectNm":"롯데캐피탈\/유상_2022","startedAt":"22\/05\/01","endedAt":"23\/04\/30","projectManager":"박인수"}
+,{"projectId":859,"projectCode":"CRM-0078.108","projectNm":"신한카드\/VAS_유상_2022 (잔존장비)","startedAt":"22\/05\/01","endedAt":"23\/04\/30","projectManager":"손진호"}
+,{"projectId":860,"projectCode":"CRM-0205.053","projectNm":"AIG\/보이는ARS_유상_2022","startedAt":"22\/05\/01","endedAt":"23\/04\/30","projectManager":"문기남"}
+,{"projectId":861,"projectCode":"CRM-0237.003","projectNm":"아프로서비스그룹\/WFM_유상_연장","startedAt":"22\/05\/01","endedAt":"22\/09\/30","projectManager":"이문용"}
+,{"projectId":862,"projectCode":"CRM-0308.011","projectNm":"KB국민카드\/CDW-Pro외 유상_2022","startedAt":"22\/05\/01","endedAt":"23\/04\/30","projectManager":"백승인"}
+,{"projectId":863,"projectCode":"ITS-0303.082","projectNm":"내부회계 평가 수행 지원","startedAt":"22\/05\/01","endedAt":"23\/02\/28","projectManager":"박성준"}
+,{"projectId":864,"projectCode":"ITS-0305.125","projectNm":"내부회계 ITGC 평가 수행 지원","startedAt":"22\/05\/01","endedAt":"23\/02\/28","projectManager":"박성준"}
+,{"projectId":865,"projectCode":"ITS-0306.138","projectNm":"내부회계 ITGC 평가 수행 지원","startedAt":"22\/05\/01","endedAt":"23\/02\/28","projectManager":"박성준"}
+,{"projectId":866,"projectCode":"ITS-0321.052","projectNm":"내부회계 ITGC 평가 수행 지원","startedAt":"22\/05\/01","endedAt":"23\/02\/28","projectManager":"박성준"}
+,{"projectId":867,"projectCode":"MOB-2010.003","projectNm":"KT\/2022년 SMSC 개발유지보수\/유상\/2022","startedAt":"22\/05\/01","endedAt":"23\/04\/30","projectManager":"김해영"}
+,{"projectId":868,"projectCode":"MOB-2020.002","projectNm":"KT\/2022년 SMSF 개발유지보수\/유상\/2022","startedAt":"22\/05\/01","endedAt":"23\/04\/30","projectManager":"김해영"}
+,{"projectId":869,"projectCode":"MOB-2060.003","projectNm":"KT\/2022년 CBMC 개발유지보수_유상_2022","startedAt":"22\/05\/01","endedAt":"23\/04\/30","projectManager":"노원빈"}
+,{"projectId":870,"projectCode":"MOB-2070.001","projectNm":"KT\/MTS 개발유지보수_유상_2022(5월~)","startedAt":"22\/05\/01","endedAt":"23\/04\/30","projectManager":"김경현"}
+,{"projectId":871,"projectCode":"MOB-2080.001","projectNm":"KT\/2022년 KPNS 개발유지보수\/유상\/2022","startedAt":"22\/05\/01","endedAt":"23\/04\/30","projectManager":"박규병"}
+,{"projectId":872,"projectCode":"MOB-2100.002","projectNm":"KT\/2022년 IPSMGW 개발유지보수\/유상\/2022","startedAt":"22\/05\/01","endedAt":"23\/04\/30","projectManager":"신봉철"}
+,{"projectId":873,"projectCode":"MOB-2130.001","projectNm":"KT\/2022년 무선 코어망 장비 유지보수_유상_2022","startedAt":"22\/05\/01","endedAt":"23\/04\/30","projectManager":"송혁신"}
+,{"projectId":874,"projectCode":"MOB-2130.002","projectNm":"KT\/2022년 MSENS 개발유지보수_유상_2022","startedAt":"22\/05\/01","endedAt":"23\/04\/30","projectManager":"정갑식"}
+,{"projectId":875,"projectCode":"MOB-2010.001","projectNm":"KT\/2022년 SMSC 국사이원화 개발","startedAt":"22\/04\/28","endedAt":"22\/12\/25","projectManager":"김해영"}
+,{"projectId":876,"projectCode":"MOB-2040.001","projectNm":"KT\/2022년ROME 국사이원화 개발","startedAt":"22\/04\/28","endedAt":"22\/12\/25","projectManager":"노원빈"}
+,{"projectId":877,"projectCode":"MOB-2060.002","projectNm":"ETRI\/2022년_5G CBS 서비스 고도화 기능 시험을 위한 리빙랩","startedAt":"22\/04\/27","endedAt":"22\/11\/30","projectManager":"노원빈"}
+,{"projectId":878,"projectCode":"CRM-0086.102","projectNm":"현대캐피탈\/단기 Collection Call Bot 고도화","startedAt":"22\/04\/25","endedAt":"22\/07\/20","projectManager":"권혁원 샌드박스"}
+,{"projectId":879,"projectCode":"MOB-2100.001","projectNm":"KT\/2022년 IPSMGW 국사이원화_개발","startedAt":"22\/04\/21","endedAt":"22\/12\/25","projectManager":"신봉철"}
+,{"projectId":880,"projectCode":"CRM-0003.077","projectNm":"삼성화재\/디지털 ARS 고도화","startedAt":"22\/04\/18","endedAt":"23\/01\/15","projectManager":"이문용"}
+,{"projectId":881,"projectCode":"CRM-0319.008","projectNm":"신한금융투자_디지털 PB센터 고도화","startedAt":"22\/04\/18","endedAt":"22\/08\/31","projectManager":"정창희"}
+,{"projectId":882,"projectCode":"CRM-0261.026","projectNm":"예다함상조\/상담원 6석 증설_2022","startedAt":"22\/04\/15","endedAt":"22\/06\/30","projectManager":"권혁원 샌드박스"}
+,{"projectId":883,"projectCode":"MOB-2030.003","projectNm":"KTDS\/KT\/2022년_GMMSC 국사이원화 개발","startedAt":"22\/04\/15","endedAt":"22\/07\/31","projectManager":"박병걸"}
+,{"projectId":884,"projectCode":"CRM-0251.012","projectNm":"NH투자증권 IPT IVR 유지보수_22년","startedAt":"22\/04\/14","endedAt":"22\/06\/30","projectManager":"진재욱"}
+,{"projectId":885,"projectCode":"ITS-0064.006","projectNm":"코오롱인더스트리 22년 RPA 과제개발 환경개선 용역","startedAt":"22\/04\/14","endedAt":"22\/06\/30","projectManager":"김철환"}
+,{"projectId":886,"projectCode":"CRM-0079.104","projectNm":"KB지주통합\/공통부구축\/1-2_202204","startedAt":"22\/04\/11","endedAt":"23\/06\/30","projectManager":"서상진"}
+,{"projectId":887,"projectCode":"CRM-0042.075","projectNm":"사고보험금 FAX신청 전담 재택근무 환경 구축 위한 전산 장비 추가 도입","startedAt":"22\/04\/05","endedAt":"22\/06\/30","projectManager":"안현준"}
+,{"projectId":888,"projectCode":"ITS-0301.154","projectNm":"2022년 한솔제지 타라유통 정보연계 개발","startedAt":"22\/04\/05","endedAt":"22\/07\/29","projectManager":"이지아"}
+,{"projectId":889,"projectCode":"ITS-0301.161","projectNm":"2022년 타라유통 한솔제지 정보연계 시스템 개발","startedAt":"22\/04\/05","endedAt":"22\/07\/29","projectManager":"이지아"}
+,{"projectId":890,"projectCode":"CRM-0085.263","projectNm":"현대캐피탈\/콜봇 시나리오 추가 개발","startedAt":"22\/04\/04","endedAt":"22\/07\/17","projectManager":"권혁원 샌드박스"}
+,{"projectId":891,"projectCode":"ITS-0305.121","projectNm":"한솔테크닉스 PLM 구축","startedAt":"22\/04\/04","endedAt":"22\/09\/02","projectManager":"김진태"}
+,{"projectId":892,"projectCode":"CRM-0013.059","projectNm":"SKT\/유상_2022","startedAt":"22\/04\/01","endedAt":"23\/03\/01","projectManager":"민정식"}
+,{"projectId":893,"projectCode":"CRM-0017.085","projectNm":"교보생명\/통합_IBM_유상_2022","startedAt":"22\/04\/01","endedAt":"23\/03\/31","projectManager":"민정식"}
+,{"projectId":894,"projectCode":"CRM-0034.080","projectNm":"현대홈쇼핑\/통신사고도화_IVR_SM_유상_2022","startedAt":"22\/04\/01","endedAt":"22\/11\/30","projectManager":"권혁원 샌드박스"}
+,{"projectId":895,"projectCode":"CRM-0085.261","projectNm":"현대카드캐피탈 콜시스템 고도화_무상","startedAt":"22\/04\/01","endedAt":"22\/12\/31","projectManager":"이상길"}
+,{"projectId":896,"projectCode":"CRM-0112.024","projectNm":"한국신용평가\/유상_2022","startedAt":"22\/04\/01","endedAt":"23\/03\/31","projectManager":"민정식"}
+,{"projectId":897,"projectCode":"CRM-0145.028","projectNm":"LG+\/콜센터_유상_2022","startedAt":"22\/04\/01","endedAt":"23\/03\/31","projectManager":"문기남"}
+,{"projectId":898,"projectCode":"CRM-0148.051","projectNm":"수협\/WFM_유상_2022","startedAt":"22\/04\/01","endedAt":"23\/03\/31","projectManager":"문기남"}
+,{"projectId":899,"projectCode":"CRM-0252.008","projectNm":"한네트\/유상_2022","startedAt":"22\/04\/01","endedAt":"23\/03\/31","projectManager":"이문용"}
+,{"projectId":900,"projectCode":"CRM-0314.003","projectNm":"2021년 SK하이닉스 헬프데스크 유지보수","startedAt":"22\/04\/01","endedAt":"22\/06\/30","projectManager":"민정식"}
+,{"projectId":901,"projectCode":"CRM-0332.001","projectNm":"해양경찰청\/통합메세징 발송 관리 시스템","startedAt":"22\/04\/01","endedAt":"22\/06\/30","projectManager":"임석균"}
+,{"projectId":902,"projectCode":"ITS-0301.159","projectNm":"22년도 한솔제지 환경사업본부 ITO","startedAt":"22\/04\/01","endedAt":"22\/12\/31","projectManager":"0"}
+,{"projectId":903,"projectCode":"MOB-1020.001","projectNm":"SKT\/2022년 VMG 서비스 운영\/유상\/2022","startedAt":"22\/04\/01","endedAt":"23\/03\/31","projectManager":"위장민"}
+,{"projectId":904,"projectCode":"MOB-1030.001","projectNm":"SKT\/SK_2022년 VSMSS 기술지원용역_2분기_유상_2022","startedAt":"22\/04\/01","endedAt":"22\/06\/30","projectManager":"위장민"}
+,{"projectId":905,"projectCode":"MOB-2090.002","projectNm":"KT\/2022년 경전선 벌교~광주송정 LTE-R 구매설치 사업","startedAt":"22\/03\/30","endedAt":"23\/12\/31","projectManager":"한지훈"}
+,{"projectId":906,"projectCode":"CRM-0025.077","projectNm":"신한생명 콜인프라 소모품 단가 계약","startedAt":"22\/03\/25","endedAt":"23\/03\/31","projectManager":"백승인"}
+,{"projectId":907,"projectCode":"MOB-2090.001","projectNm":"KT\/2022년 경전선 삼랑진~반성 외 1건 LTE-R 구매설치 사업","startedAt":"22\/03\/24","endedAt":"23\/12\/31","projectManager":"한지훈"}
+,{"projectId":908,"projectCode":"ITS-0301.157","projectNm":"2022년 한솔제지 대전공장 입고자동화 구축","startedAt":"22\/03\/21","endedAt":"22\/06\/30","projectManager":"황두환"}
+,{"projectId":909,"projectCode":"CRM-0030.075","projectNm":"푸르덴셜생명_메신저(200user)_유상_2022","startedAt":"22\/03\/20","endedAt":"22\/10\/14","projectManager":"정회은"}
+,{"projectId":910,"projectCode":"CRM-0178.044","projectNm":"롯데홈쇼핑\/콜센터(KT투자)_유상_2022","startedAt":"22\/03\/16","endedAt":"22\/12\/31","projectManager":"손진호"}
+,{"projectId":911,"projectCode":"ITS-0321.050","projectNm":"한솔홀딩스 다빈치 온라인교육시스템 연동 구축","startedAt":"22\/03\/16","endedAt":"22\/07\/15","projectManager":"장형종"}
+,{"projectId":912,"projectCode":"ITS-0044.037","projectNm":"유로지텍  하나로TNS 37차 라이선스 추가","startedAt":"22\/03\/14","endedAt":"23\/03\/13","projectManager":"김대중"}
+,{"projectId":913,"projectCode":"ITS-0323.002","projectNm":"아이원스 IT인프라 구축-VPN장비","startedAt":"22\/03\/14","endedAt":"22\/07\/29","projectManager":"김진태"}
+,{"projectId":914,"projectCode":"CRM-0148.050","projectNm":"수협은행\/IP IPX 유상_2022","startedAt":"22\/03\/09","endedAt":"23\/03\/08","projectManager":"문기남"}
+,{"projectId":915,"projectCode":"ITS-0044.036","projectNm":"유로지텍 푸드나무 36차 라이선스  추가","startedAt":"22\/03\/08","endedAt":"23\/03\/07","projectManager":"김대중"}
+,{"projectId":916,"projectCode":"CRM-0082.039","projectNm":"에이앤디신용정보\/Non Active X 전환 1차","startedAt":"22\/03\/07","endedAt":"22\/07\/31","projectManager":"안현준"}
+,{"projectId":917,"projectCode":"CLD-0002.005","projectNm":"세틀뱅크\/KT CLOUD 간편결제 ASP건_2022","startedAt":"22\/03\/01","endedAt":"23\/02\/28","projectManager":"민정식"}
+,{"projectId":918,"projectCode":"CLD-0003.013","projectNm":"KT\/클라우드옴니_2022","startedAt":"22\/03\/01","endedAt":"23\/02\/28","projectManager":"민정식"}
+,{"projectId":919,"projectCode":"CRM-0002.083","projectNm":"삼성증권 TA 인건비 계약","startedAt":"22\/03\/01","endedAt":"22\/08\/31","projectManager":"고철주"}
+,{"projectId":920,"projectCode":"CRM-0010.075","projectNm":"신한은행\/퇴직연금 인포푸시갱신_2022","startedAt":"22\/03\/01","endedAt":"23\/02\/28","projectManager":"문기남"}
+,{"projectId":921,"projectCode":"CRM-0025.078","projectNm":"신한생명\/콜센터통합_유상_2022","startedAt":"22\/03\/01","endedAt":"23\/02\/28","projectManager":"백승인"}
+,{"projectId":922,"projectCode":"CRM-0045.128","projectNm":"현대해상\/콜센터통합_유상_2022","startedAt":"22\/03\/01","endedAt":"23\/02\/28","projectManager":"권혁원 샌드박스"}
+,{"projectId":923,"projectCode":"CRM-0045.131","projectNm":"현대해상\/KT고도화_유상_2022","startedAt":"22\/03\/01","endedAt":"23\/02\/28","projectManager":"진재욱"}
+,{"projectId":924,"projectCode":"CRM-0079.102","projectNm":"KB국민은행\/콜센터고도화_3차(Genesys)_유상_2022","startedAt":"22\/03\/01","endedAt":"23\/02\/28","projectManager":"진재욱"}
+,{"projectId":925,"projectCode":"CRM-0231.024","projectNm":"하나카드\/AICC 및 상담 APP 연계 개발","startedAt":"22\/03\/01","endedAt":"22\/11\/19","projectManager":"87568"}
+,{"projectId":926,"projectCode":"CRM-0291.011","projectNm":"부산은행\/유상_2022","startedAt":"22\/03\/01","endedAt":"23\/02\/28","projectManager":"진재욱"}
+,{"projectId":927,"projectCode":"CRM-0308.010","projectNm":"KB국민카드\/PDS 유상 유지보수_2022년","startedAt":"22\/03\/01","endedAt":"23\/02\/28","projectManager":"백승인"}
+,{"projectId":928,"projectCode":"CRM-0331.001","projectNm":"하이파킹\/콜센터 42석 신규 구축","startedAt":"22\/03\/01","endedAt":"22\/08\/31","projectManager":"임석균"}
+,{"projectId":929,"projectCode":"MOB-2030.002","projectNm":"KTDS\/KT_2022년 GMMSC\/MP 개발유지보수(3월~12월)\/유상","startedAt":"22\/03\/01","endedAt":"22\/12\/31","projectManager":"박병걸"}
+,{"projectId":930,"projectCode":"MOB-2120.002","projectNm":"KTDS\/KT_2022년 MSSP 개발유지보수_3월~12월\/유상\/2022","startedAt":"22\/03\/01","endedAt":"22\/12\/31","projectManager":"김경현"}
+,{"projectId":931,"projectCode":"ITS-0044.035","projectNm":"유로지텍 푸드나무 35차 라이선스 갱신","startedAt":"22\/02\/28","endedAt":"23\/02\/27","projectManager":"김대중"}
+,{"projectId":932,"projectCode":"CRM-0315.008","projectNm":"이베이코리아\/IVR시나리오 개발2_2022","startedAt":"22\/02\/21","endedAt":"22\/09\/30","projectManager":"정회은"}
+,{"projectId":933,"projectCode":"CRM-0192.037","projectNm":"KB캐피탈\/UC_유상_2022","startedAt":"22\/02\/20","endedAt":"23\/02\/19","projectManager":"정회은"}
+,{"projectId":934,"projectCode":"ITS-0303.079","projectNm":"2022년 홈데코 SAP 라이선스 구매 건","startedAt":"22\/02\/17","endedAt":"22\/12\/31","projectManager":"김병진"}
+,{"projectId":935,"projectCode":"MOB-2020.001","projectNm":"KT\/2022년 금융사칭 불법스팸 대응 스팸차단시스템 고도화_2022","startedAt":"22\/02\/17","endedAt":"22\/09\/30","projectManager":"김해영"}
+,{"projectId":936,"projectCode":"CRM-0003.076","projectNm":"삼성화재\/WFM_유상_2022","startedAt":"22\/02\/12","endedAt":"22\/12\/31","projectManager":"이문용"}
+,{"projectId":937,"projectCode":"CRM-0002.084","projectNm":"삼성증권 보이는ARS 유지보수","startedAt":"22\/02\/01","endedAt":"23\/01\/31","projectManager":"조명기"}
+,{"projectId":938,"projectCode":"CRM-0034.079","projectNm":"현대홈쇼핑-교환기 업그레이드","startedAt":"22\/02\/01","endedAt":"22\/07\/31","projectManager":"권혁원 샌드박스"}
+,{"projectId":939,"projectCode":"CRM-0118.012","projectNm":"병무청\/유상_2022","startedAt":"22\/02\/01","endedAt":"22\/12\/31","projectManager":"권혁원 샌드박스"}
+,{"projectId":940,"projectCode":"CRM-0261.025","projectNm":"예다함\/콜센터_유상_2022","startedAt":"22\/02\/01","endedAt":"23\/01\/31","projectManager":"안현준"}
+,{"projectId":941,"projectCode":"ITS-0301.158","projectNm":"2022년 한솔제지 빅데이터플랫폼 사용","startedAt":"22\/02\/01","endedAt":"23\/01\/31","projectManager":"김영민"}
+,{"projectId":942,"projectCode":"CRM-0172.041","projectNm":"미래신용정보\/차세대 U cube 연동 개발","startedAt":"22\/01\/28","endedAt":"22\/06\/30","projectManager":"권혁원 샌드박스"}
+,{"projectId":943,"projectCode":"ITS-0048.006","projectNm":"대림 22년도 RPA 유지보수","startedAt":"22\/01\/26","endedAt":"22\/12\/31","projectManager":"신성만"}
+,{"projectId":944,"projectCode":"CRM-0079.100","projectNm":"KB지주통합\/KB생명\/1-2","startedAt":"22\/01\/25","endedAt":"22\/11\/30","projectManager":"이명진"}
+,{"projectId":945,"projectCode":"CRM-0079.101","projectNm":"KB지주통합\/KB저축은행\/1-2","startedAt":"22\/01\/25","endedAt":"22\/08\/31","projectManager":"이상길"}
+,{"projectId":946,"projectCode":"CRM-0315.007","projectNm":"이베이코리아\/IVR 시나리오 개발_2022","startedAt":"22\/01\/25","endedAt":"22\/09\/30","projectManager":"정회은"}
+,{"projectId":947,"projectCode":"ITS-0304.120","projectNm":"2022년 케미칼 환경안전시스템 구축","startedAt":"22\/01\/24","endedAt":"22\/12\/31","projectManager":"구관중"}
+,{"projectId":948,"projectCode":"CRM-0315.006","projectNm":"이베이코리아\/IVR멘트녹음_2022","startedAt":"22\/01\/18","endedAt":"22\/09\/30","projectManager":"정회은"}
+,{"projectId":949,"projectCode":"ITS-0044.033","projectNm":"푸드나무 33차(17차 리뉴얼) 라이선스 갱신","startedAt":"22\/01\/13","endedAt":"23\/01\/12","projectManager":"김대중"}
+,{"projectId":950,"projectCode":"CRM-0078.106","projectNm":"신한카드\/ AICC 마케팅 음성봇 확장 개발(3차)","startedAt":"22\/01\/10","endedAt":"22\/11\/30","projectManager":"손진호"}
+,{"projectId":951,"projectCode":"ITS-0321.048","projectNm":"2021년 통합 안전관리 시스템 구축","startedAt":"22\/01\/06","endedAt":"22\/10\/11","projectManager":"신성만"}
+,{"projectId":952,"projectCode":"CRM-0231.021","projectNm":"하나카드\/인바운드 콜시스템 고도화 사업","startedAt":"22\/01\/05","endedAt":"22\/07\/31","projectManager":"87568"}
+,{"projectId":953,"projectCode":"CRM-0088.079","projectNm":"22년 SK매직 유상(6개월)","startedAt":"22\/01\/04","endedAt":"22\/06\/30","projectManager":"문기남"}
+,{"projectId":954,"projectCode":"CRM-0323.001","projectNm":"세라젬 고객센터 구축","startedAt":"22\/01\/04","endedAt":"22\/11\/03","projectManager":"안영헌"}
+,{"projectId":955,"projectCode":"CLD-0017.004","projectNm":"클라우드옴니 문자서비스 정산_2021","startedAt":"22\/01\/03","endedAt":"22\/12\/31","projectManager":"민정식"}
+,{"projectId":956,"projectCode":"CLD-0015.007","projectNm":"카카오스타일\/클라우드옴니_2022","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"민정식"}
+,{"projectId":957,"projectCode":"CLD-0019.005","projectNm":"인천경제자유구역청\/클라우드옴니_2022","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"민정식"}
+,{"projectId":958,"projectCode":"CRM-0001.062","projectNm":"삼성카드\/유상_2022","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"이문용"}
+,{"projectId":959,"projectCode":"CRM-0001.063","projectNm":"삼성카드\/ETMS운영계약_SM_2022","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"이문용"}
+,{"projectId":960,"projectCode":"CRM-0002.082","projectNm":"삼성증권\/유상_2022","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"권혁원 샌드박스"}
+,{"projectId":961,"projectCode":"CRM-0003.074","projectNm":"삼성화재\/출금동의 유상 유지보수_2022","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"이문용"}
+,{"projectId":962,"projectCode":"CRM-0011.047","projectNm":"CJ오쇼핑\/유상_2022","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"권혁원 샌드박스"}
+,{"projectId":963,"projectCode":"CRM-0011.048","projectNm":"CJ 오쇼핑 21년 고도화 부산 G\/W \/ 대한통운 고도화)_무상","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"백승인"}
+,{"projectId":964,"projectCode":"CRM-0017.082","projectNm":"교보생명\/유지보수_추가분_2022","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"민정식"}
+,{"projectId":965,"projectCode":"CRM-0017.083","projectNm":"교보생명 유지보수\/메타넷\/노후장비교체건","startedAt":"22\/01\/01","endedAt":"22\/09\/30","projectManager":"민정식"}
+,{"projectId":966,"projectCode":"CRM-0017.084","projectNm":"교보생명\/통합_IBM추가_유상_2022","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"민정식"}
+,{"projectId":967,"projectCode":"CRM-0025.072","projectNm":"신한금융플러스\/신한생명 TM 비전속 센터 유지보수","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"신민석"}
+,{"projectId":968,"projectCode":"CRM-0025.073","projectNm":"2022년 Telephony 전산장비 SM 도급 계약","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"신민석"}
+,{"projectId":969,"projectCode":"CRM-0032.077","projectNm":"한화손해보험\/콜센터통합_유상_2022","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"박인수"}
+,{"projectId":970,"projectCode":"CRM-0032.078","projectNm":"한화손해보험\/Web Voice_유상_2022","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"권혁원 샌드박스"}
+,{"projectId":971,"projectCode":"CRM-0042.067","projectNm":"한화생명\/콜센터통합_유상_2022","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"안현준"}
+,{"projectId":972,"projectCode":"CRM-0042.068","projectNm":"한화생명금융서비스\/ 클라우드옴니_2022","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"민정식"}
+,{"projectId":973,"projectCode":"CRM-0042.072","projectNm":"한화생명 APP 재구축에 따른 CTI Non-Activ_무상","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"김영석"}
+,{"projectId":974,"projectCode":"CRM-0042.073","projectNm":"한화생명\/MSENS_유상_2022","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"안현준"}
+,{"projectId":975,"projectCode":"CRM-0044.016","projectNm":"흥국화재\/WFM_유상_2022","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"민정식"}
+,{"projectId":976,"projectCode":"CRM-0045.123","projectNm":"현대해상\/형상변경_유상_2022","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"정회은"}
+,{"projectId":977,"projectCode":"CRM-0046.120","projectNm":"롯데카드\/2022_유상(직계약)","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"문기남"}
+,{"projectId":978,"projectCode":"CRM-0046.121","projectNm":"롯데카드\/유상_2022","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"문기남"}
+,{"projectId":979,"projectCode":"CRM-0047.044","projectNm":"CJ텔레닉스\/개발유지보수_2022","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"권혁원 샌드박스"}
+,{"projectId":980,"projectCode":"CRM-0051.043","projectNm":"신한오렌지라이프\/시스템_유상_2022","startedAt":"22\/01\/01","endedAt":"22\/06\/30","projectManager":"안현준"}
+,{"projectId":981,"projectCode":"CRM-0068.022","projectNm":"하나생명\/유상_2022","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"민정식"}
+,{"projectId":982,"projectCode":"CRM-0075.086","projectNm":"한전\/KDN_유상_2022","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"손진호"}
+,{"projectId":983,"projectCode":"CRM-0076.038","projectNm":"한국고용정보\/유상_2022","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"권혁원 샌드박스"}
+,{"projectId":984,"projectCode":"CRM-0078.105","projectNm":"신한카드\/AI 음성봇 연계 교환기 증설","startedAt":"22\/01\/01","endedAt":"22\/07\/31","projectManager":"손진호"}
+,{"projectId":985,"projectCode":"CRM-0079.099","projectNm":"KB국민은행\/콜센터고도화_2차_유상_2022","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"진재욱"}
+,{"projectId":986,"projectCode":"CRM-0085.256","projectNm":"현대카드\/유상_2022(2년)","startedAt":"22\/01\/01","endedAt":"23\/12\/31","projectManager":"권혁원 샌드박스"}
+,{"projectId":987,"projectCode":"CRM-0086.098","projectNm":"현대캐피탈\/유상_2022(2년)","startedAt":"22\/01\/01","endedAt":"23\/12\/31","projectManager":"권혁원 샌드박스"}
+,{"projectId":988,"projectCode":"CRM-0090.031","projectNm":"현대커머셜\/유상_2022(2년)","startedAt":"22\/01\/01","endedAt":"23\/12\/31","projectManager":"권혁원 샌드박스"}
+,{"projectId":989,"projectCode":"CRM-0094.082","projectNm":"롯데렌탈\/소비재렌탈_유상_2022","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"권혁원 샌드박스"}
+,{"projectId":990,"projectCode":"CRM-0097.054","projectNm":"바로크레디트 \/유상_2022","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"안현준"}
+,{"projectId":991,"projectCode":"CRM-0101.102","projectNm":"SKB\/콜센터_유상_2022","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"민정식"}
+,{"projectId":992,"projectCode":"CRM-0103.031","projectNm":"KB생명\/콜센터_유상_2022","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"정회은"}
+,{"projectId":993,"projectCode":"CRM-0103.032","projectNm":"KB생명\/콜센터_유상_2022","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"임석균"}
+,{"projectId":994,"projectCode":"CRM-0108.083","projectNm":"SC은행\/ETF 녹취시스템_유상_2022","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"박인수"}
+,{"projectId":995,"projectCode":"CRM-0108.084","projectNm":"SC제일은행_콜센터통합_유상_2022","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"박인수"}
+,{"projectId":996,"projectCode":"CRM-0111.020","projectNm":"산림조합중앙회\/시스템(DR)_유상_2022","startedAt":"22\/01\/01","endedAt":"22\/11\/30","projectManager":"권혁원 샌드박스"}
+,{"projectId":997,"projectCode":"CRM-0114.015","projectNm":"삼성전자서비스\/유상_2022","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"손진호"}
+,{"projectId":998,"projectCode":"CRM-0136.047","projectNm":"롯데홈쇼핑\/비주얼보이스(상반기)_유상_2022","startedAt":"22\/01\/01","endedAt":"22\/06\/30","projectManager":"손진호"}
+,{"projectId":999,"projectCode":"CRM-0136.048","projectNm":"롯데홈쇼핑\/보이는상담안내(상반기)_유상_2022","startedAt":"22\/01\/01","endedAt":"22\/06\/30","projectManager":"손진호"}
+,{"projectId":1000,"projectCode":"CRM-0142.159","projectNm":"한전\/IPT_유상_2022","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"손진호"}
+,{"projectId":1001,"projectCode":"CRM-0142.160","projectNm":"한전\/ICT서비스데스크 유상_2022","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"손진호"}
+,{"projectId":1002,"projectCode":"CRM-0176.034","projectNm":"대구은행\/제2통신사 고도화_유상_2022","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"577313"}
+,{"projectId":1003,"projectCode":"CRM-0176.035","projectNm":"대구은행\/PBX_유상_2022","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"577313"}
+,{"projectId":1004,"projectCode":"CRM-0178.041","projectNm":"롯데홈쇼핑\/재택상담_유상_2022","startedAt":"22\/01\/01","endedAt":"22\/06\/30","projectManager":"손진호"}
+,{"projectId":1005,"projectCode":"CRM-0178.042","projectNm":"롯데홈쇼핑\/SM통합_유상_2022","startedAt":"22\/01\/01","endedAt":"22\/06\/30","projectManager":"손진호"}
+,{"projectId":1006,"projectCode":"CRM-0178.045","projectNm":"롯데홈쇼핑\/주소봇_유상\/2022","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"손진호"}
+,{"projectId":1007,"projectCode":"CRM-0188.014","projectNm":"LG헬로비젼\/유상_2022","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"권혁원 샌드박스"}
+,{"projectId":1008,"projectCode":"CRM-0201.021","projectNm":"KT\/WFMS_유상_2022","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"문기남"}
+,{"projectId":1009,"projectCode":"CRM-0216.015","projectNm":"NH농협카드\/PDS_유상_2022","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"577313"}
+,{"projectId":1010,"projectCode":"CRM-0226.013","projectNm":"우리카드\/유상_2022","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"구동준"}
+,{"projectId":1011,"projectCode":"CRM-0227.011","projectNm":"SK쉴더스\/유상_2022","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"민정식"}
+,{"projectId":1012,"projectCode":"CRM-0244.020","projectNm":"리베고\/화성시청_유상_2022","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"이문용"}
+,{"projectId":1013,"projectCode":"CRM-0244.021","projectNm":"리베고\/파주시청_유상_2022","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"이문용"}
+,{"projectId":1014,"projectCode":"CRM-0246.007","projectNm":"하나캐피탈\/이모레이_유상_2022","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"손진호"}
+,{"projectId":1015,"projectCode":"CRM-0251.011","projectNm":"NH투자증권\/대면녹취_유상_2022","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"577313"}
+,{"projectId":1016,"projectCode":"CRM-0292.012","projectNm":"제주항공\/IPCC_유상_2022","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"이문용"}
+,{"projectId":1017,"projectCode":"CRM-0295.005","projectNm":"KB증권\/UC_유상_2022","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"정회은"}
+,{"projectId":1018,"projectCode":"CRM-0297.022","projectNm":"KT&G\/DR센터_유상_2022 (6개월)","startedAt":"22\/01\/01","endedAt":"22\/06\/30","projectManager":"안현준"}
+,{"projectId":1019,"projectCode":"CRM-0322.003","projectNm":"영리빙코리아\/클라우드옴니_2022","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"민정식"}
+,{"projectId":1020,"projectCode":"CRM-0326.001","projectNm":"영업지원_세일즈1팀_2022년","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"0"}
+,{"projectId":1021,"projectCode":"CRM-0327.001","projectNm":"영업지원_세일즈2팀_2022년","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"0"}
+,{"projectId":1022,"projectCode":"CRM-0328.001","projectNm":"영업지원_세일즈3팀_2022년","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"0"}
+,{"projectId":1023,"projectCode":"CRM-0329.001","projectNm":"영업지원_세일즈4팀_2022년","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"0"}
+,{"projectId":1024,"projectCode":"CRM-0330.001","projectNm":"영업지원_세일즈5팀_2022년","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"0"}
+,{"projectId":1025,"projectCode":"ITS-0020.011","projectNm":"2022년 H-Cloud\/인프라 ITO (공통비배부코드)","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"0"}
+,{"projectId":1026,"projectCode":"ITS-0021.003","projectNm":"2022년 ECHO ITO (공통비배부코드)","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"0"}
+,{"projectId":1027,"projectCode":"ITS-0023.004","projectNm":"2022년 CSC ITO (공통비배부코드)","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"0"}
+,{"projectId":1028,"projectCode":"ITS-0045.011","projectNm":"롯데e커머스 22년도 RPA 유지보수","startedAt":"22\/01\/01","endedAt":"23\/01\/01","projectManager":"신성만"}
+,{"projectId":1029,"projectCode":"ITS-0064.005","projectNm":"코오롱 22년 RPA 유지보수","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"신성만"}
+,{"projectId":1030,"projectCode":"ITS-0301.153","projectNm":"2022년 한솔제지 ITO 서비스","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"0"}
+,{"projectId":1031,"projectCode":"ITS-0301.155","projectNm":"2022년 한솔제지 전산소모품지(토너,잉크 등)","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"김영민"}
+,{"projectId":1032,"projectCode":"ITS-0303.077","projectNm":"2022년 한솔홈데코 ITO 서비스","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"0"}
+,{"projectId":1033,"projectCode":"ITS-0303.081","projectNm":"2022년 한솔홈데코 그룹 공통 시스템","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"김병진"}
+,{"projectId":1034,"projectCode":"ITS-0304.116","projectNm":"2022년 한솔케미칼 ITO서비스","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"0"}
+,{"projectId":1035,"projectCode":"ITS-0304.117","projectNm":"2022년 한솔전자재료유한공사 ITO서비스","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"0"}
+,{"projectId":1036,"projectCode":"ITS-0304.118","projectNm":"2022년 솔머티리얼즈 ITO 서비스","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"0"}
+,{"projectId":1037,"projectCode":"ITS-0304.119","projectNm":"2022년 에이치에스머티리얼즈 ITO 서비스","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"0"}
+,{"projectId":1038,"projectCode":"ITS-0304.121","projectNm":"2022년 HS머티리얼즈  ITO서비스","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"구관중"}
+,{"projectId":1039,"projectCode":"ITS-0305.116","projectNm":"2022년 한솔테크닉스 ITO 서비스","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"0"}
+,{"projectId":1040,"projectCode":"ITS-0305.117","projectNm":"2022년 한솔테크닉스 베트남법인  ITO 서비스","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"김지희"}
+,{"projectId":1041,"projectCode":"ITS-0305.118","projectNm":"2022년 한솔테크닉스 호치민법인 ITO 서비스","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"김지희"}
+,{"projectId":1042,"projectCode":"ITS-0305.119","projectNm":"2022년 한솔테크닉스 태국법인  ITO 서비스","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"김지희"}
+,{"projectId":1043,"projectCode":"ITS-0305.120","projectNm":"2022년 한솔테크닉스 ESS 모니터링 시스템 유지보수","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"0"}
+,{"projectId":1044,"projectCode":"ITS-0305.123","projectNm":"2022년 한솔테크닉스 중국법인  ITO 서비스","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"김지희"}
+,{"projectId":1045,"projectCode":"ITS-0306.132","projectNm":"2022년도 로지스틱스 ITO 서비스","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"0"}
+,{"projectId":1046,"projectCode":"ITS-0306.133","projectNm":"2022년도 로지스틱스 중국법인 ITO 서비스","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"0"}
+,{"projectId":1047,"projectCode":"ITS-0306.134","projectNm":"2022년 한솔로지스틱스 그룹공통시스템 서비스","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"0"}
+,{"projectId":1048,"projectCode":"ITS-0306.135","projectNm":"2022년 로지스틱스 알림톡메세지 유지보수","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"이평재"}
+,{"projectId":1049,"projectCode":"ITS-0307.051","projectNm":"2022년 한솔이엠이 ITO 서비스","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"0"}
+,{"projectId":1050,"projectCode":"ITS-0309.038","projectNm":"2022년 한솔인티큐브 ITO 서비스","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"0"}
+,{"projectId":1051,"projectCode":"ITS-0314.042","projectNm":"2022년 한솔지류유통 RPA 라이센스 갱신","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"장형종"}
+,{"projectId":1052,"projectCode":"ITS-0314.043","projectNm":"2022년 지류유통 ITO 서비스","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"0"}
+,{"projectId":1053,"projectCode":"ITS-0314.046","projectNm":"2022년 지류유통 그룹공통시스템 사용","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"이승진"}
+,{"projectId":1054,"projectCode":"ITS-0315.002","projectNm":"2022년 코에버정보기술 ITO 서비스","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"구관중"}
+,{"projectId":1055,"projectCode":"ITS-0320.044","projectNm":"2022년 한솔페이퍼텍 RPA 라이센스 갱신","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"손완승"}
+,{"projectId":1056,"projectCode":"ITS-0320.045","projectNm":"2022년 한솔페이퍼텍 RPA 라이센스 1건 추가 갱신","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"손완승"}
+,{"projectId":1057,"projectCode":"ITS-0320.046","projectNm":"2022년 한솔페이퍼텍 ITO 서비스","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"손완승"}
+,{"projectId":1058,"projectCode":"ITS-0321.049","projectNm":"한솔홀딩스 2022년 ITO서비스","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"0"}
+,{"projectId":1059,"projectCode":"ITS-0331.048","projectNm":"2022년 에스텍베스트 전용선 공급","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"구관중"}
+,{"projectId":1060,"projectCode":"ITS-0331.049","projectNm":"2022년 에스텍에이스 전용선 공급","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"구관중"}
+,{"projectId":1061,"projectCode":"ITS-0331.050","projectNm":"2022년 에스텍세이프 전용선 공급","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"구관중"}
+,{"projectId":1062,"projectCode":"ITS-0331.051","projectNm":"2022년 에스텍퍼스트 전용선 공급","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"구관중"}
+,{"projectId":1063,"projectCode":"ITS-0331.052","projectNm":"2022년 에스텍플러스 전용선 공급","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"구관중"}
+,{"projectId":1064,"projectCode":"ITS-0331.053","projectNm":"2022년 에스텍시스템 ITO 서비스","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"구관중"}
+,{"projectId":1065,"projectCode":"ITS-0331.054","projectNm":"2022년 에스텍시스템 전용선 서비스","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"구관중"}
+,{"projectId":1066,"projectCode":"ITS-0341.011","projectNm":"2022년 HDC리조트 ITO 서비스","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"0"}
+,{"projectId":1067,"projectCode":"ITS-0900.002","projectNm":"2022년 오라클 ITO (공통비배부코드)","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"0"}
+,{"projectId":1068,"projectCode":"ITS-0901.002","projectNm":"2022년 V3 ITO (공통비배부코드)","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"0"}
+,{"projectId":1069,"projectCode":"ITS-0902.002","projectNm":"2022년 DRM 라이선스 ITO (공통비배부코드)","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"0"}
+,{"projectId":1070,"projectCode":"ITS-0903.002","projectNm":"2022년 홈페이지 ITO (공통비배부코드)","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"0"}
+,{"projectId":1071,"projectCode":"ITS-0904.002","projectNm":"2022년 ACL ITO (공통비배부코드)","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"0"}
+,{"projectId":1072,"projectCode":"ITS-0905.002","projectNm":"2022년 RPA ITO (공통비배부코드)","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"0"}
+,{"projectId":1073,"projectCode":"ITS-0906.002","projectNm":"2022년 스마트빌 ITO (공통비배부코드)","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"0"}
+,{"projectId":1074,"projectCode":"ITS-0907.002","projectNm":"2022년 그룹공통비 ITO (공통비배부코드)","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"0"}
+,{"projectId":1075,"projectCode":"ITS-0908.001","projectNm":"2022년 다빈치 ITO (공통비배부코드)","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"0"}
+,{"projectId":1076,"projectCode":"MOB-2110.001","projectNm":"엑스큐어\/KT_2022년 RAMS 개발유지보수\/유상\/2022","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"신봉철"}
+,{"projectId":1077,"projectCode":"R&D-0004.016","projectNm":"IS-IVR 솔루션 고도화 개발_2022","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"김지연"}
+,{"projectId":1078,"projectCode":"R&D-0013.007","projectNm":"ISAC개발_2022","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"이소형"}
+,{"projectId":1079,"projectCode":"R&D-0013.008","projectNm":"VOICE G\/W개발_2022년","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"이소형"}
+,{"projectId":1080,"projectCode":"R&D-0022.002","projectNm":"통합통계솔루션 고도화 개발","startedAt":"22\/01\/01","endedAt":"22\/11\/30","projectManager":"신훈"}
+,{"projectId":1081,"projectCode":"R&D-0025.001","projectNm":"R&D\/IPCC3팀_WFM\/NR","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"강대근"}
+,{"projectId":1082,"projectCode":"R&D-0025.002","projectNm":"R&D\/IPCC3팀_IS-CDA","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"강대근"}
+,{"projectId":1083,"projectCode":"R&D-0025.003","projectNm":"R&D\/IPCC3팀_IS-MON","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"강대근"}
+,{"projectId":1084,"projectCode":"R&D-0025.004","projectNm":"R&D\/IPCC3팀_CNVu","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"강대근"}
+,{"projectId":1085,"projectCode":"R&D-0025.005","projectNm":"R&D\/IPCC3팀_IS-Contact","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"강대근"}
+,{"projectId":1086,"projectCode":"R&D-0025.006","projectNm":"R&D\/IPCC3팀_ETC","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"강대근"}
+,{"projectId":1087,"projectCode":"R&D-0026.001","projectNm":"R&D\/IPCC2팀_Genesys_CTI","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"정진각"}
+,{"projectId":1088,"projectCode":"R&D-0026.002","projectNm":"R&D\/IPCC2팀_Genesys_통계","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"정진각"}
+,{"projectId":1089,"projectCode":"R&D-0026.003","projectNm":"R&D\/IPCC2팀_Genesys_연계솔루션","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"정진각"}
+,{"projectId":1090,"projectCode":"R&D-0026.004","projectNm":"R&D\/IPCC2팀_CTIBridge_고도화","startedAt":"22\/01\/01","endedAt":"22\/12\/31","projectManager":"정진각"}
+,{"projectId":1091,"projectCode":"CRM-0035.097","projectNm":"NS 홈쇼핑 디지털컨택센터 유지보수 분리건","startedAt":"21\/12\/22","endedAt":"22\/10\/31","projectManager":"577309"}
+,{"projectId":1092,"projectCode":"CRM-0320.003","projectNm":"2021_대명스테이션_콜센터 구축_무상","startedAt":"21\/12\/21","endedAt":"22\/12\/20","projectManager":"손진호"}
+,{"projectId":1093,"projectCode":"CRM-0019.070","projectNm":"씨티은행\/SM_유상_2022","startedAt":"21\/12\/16","endedAt":"22\/12\/15","projectManager":"안현준"}
+,{"projectId":1094,"projectCode":"ITS-0304.115","projectNm":"2020년 케미칼 바인더 공정 생산품질관리 시스템 구축","startedAt":"21\/12\/16","endedAt":"23\/01\/15","projectManager":"이기천"}
+,{"projectId":1095,"projectCode":"CRM-0003.071","projectNm":"삼성화재 WFMS 고도화","startedAt":"21\/12\/13","endedAt":"22\/12\/12","projectManager":"임석균"}
+,{"projectId":1096,"projectCode":"CRM-0025.070","projectNm":"신한라이프 IPT용 CTI\/IVR 전화기 납품","startedAt":"21\/12\/06","endedAt":"22\/06\/30","projectManager":"신민석"}
+,{"projectId":1097,"projectCode":"CRM-0010.072","projectNm":"신한은행\/SM_유상(2명)_2021","startedAt":"21\/12\/01","endedAt":"22\/11\/30","projectManager":"문기남"}
+,{"projectId":1098,"projectCode":"CRM-0045.119","projectNm":"현대해상_IPPBX_202110","startedAt":"21\/12\/01","endedAt":"22\/12\/30","projectManager":"김종섭"}
+,{"projectId":1099,"projectCode":"CRM-0078.107","projectNm":"신한카드 AI컨택센터 확대를 위한 개발 용역 공급계약_무상","startedAt":"21\/12\/01","endedAt":"22\/11\/30","projectManager":"진재욱"}
+,{"projectId":1100,"projectCode":"CRM-0079.096","projectNm":"KB국민은행\/음성봇 구축","startedAt":"21\/12\/01","endedAt":"22\/09\/30","projectManager":"진재욱"}
+,{"projectId":1101,"projectCode":"CRM-0079.098","projectNm":"KB국민은행\/양방향SMS_유상_2021","startedAt":"21\/12\/01","endedAt":"22\/11\/30","projectManager":"임석균"}
+,{"projectId":1102,"projectCode":"CRM-0080.047","projectNm":"대한법률구조공단\/IPCC_유상_2021(21.12~22.11)","startedAt":"21\/12\/01","endedAt":"22\/11\/30","projectManager":"김용길"}
+,{"projectId":1103,"projectCode":"CRM-0111.019","projectNm":"산림조합중앙회\/시스템_유상_2021","startedAt":"21\/12\/01","endedAt":"22\/11\/30","projectManager":"김영래"}
+,{"projectId":1104,"projectCode":"CRM-0145.027","projectNm":"LG유플러스\/ARS 웹 리뉴얼 개발","startedAt":"21\/12\/01","endedAt":"22\/06\/30","projectManager":"문기남"}
+,{"projectId":1105,"projectCode":"ITS-0313.026","projectNm":"2022년 문화재단 ITO","startedAt":"21\/12\/01","endedAt":"22\/11\/30","projectManager":"김병조"}
+,{"projectId":1106,"projectCode":"ITS-0332.002","projectNm":"2022년 두을 장학재단 홈페이지 유지보수","startedAt":"21\/12\/01","endedAt":"22\/11\/30","projectManager":"김병조"}
+,{"projectId":1107,"projectCode":"MOB-2060.001","projectNm":"KT_2021년 CBMC Cell ID 개발_무상","startedAt":"21\/12\/01","endedAt":"22\/11\/30","projectManager":"노원빈"}
+,{"projectId":1108,"projectCode":"R&D-0024.001","projectNm":"CDW_Pro2개발(아웃바운드 솔루션 어드민 프로그램)","startedAt":"21\/12\/01","endedAt":"22\/11\/30","projectManager":"0"}
+,{"projectId":1109,"projectCode":"ITS-0303.075","projectNm":"2021년 한솔홈데코 RPA 라이선스 갱신","startedAt":"21\/11\/29","endedAt":"22\/08\/31","projectManager":"김병진"}
+,{"projectId":1110,"projectCode":"MOB-0010.055","projectNm":"SKT\/2021년_신규청소년요금제 정보이용료차단-허용 기능개발","startedAt":"21\/11\/24","endedAt":"22\/06\/30","projectManager":"정갑식"}
+,{"projectId":1111,"projectCode":"ITS-0081.002","projectNm":"타라유통 ERP 구축","startedAt":"21\/11\/15","endedAt":"22\/08\/31","projectManager":"임헌철"}
+,{"projectId":1112,"projectCode":"ITS-0309.037","projectNm":"한솔인티큐브 SAP 및 PMS 고도화","startedAt":"21\/11\/15","endedAt":"22\/09\/15","projectManager":"한동희"}
+,{"projectId":1113,"projectCode":"CRM-0010.071","projectNm":"2021_신한은행 WFM 기능개선","startedAt":"21\/11\/08","endedAt":"22\/06\/30","projectManager":"문기남"}
+,{"projectId":1114,"projectCode":"CRM-0145.026","projectNm":"LG유플러스\/청약데몬 개발","startedAt":"21\/11\/05","endedAt":"22\/06\/30","projectManager":"문기남"}
+,{"projectId":1115,"projectCode":"CRM-0034.078","projectNm":"현대홈쇼핑\/VDL 및 Info Push 서비스","startedAt":"21\/11\/01","endedAt":"22\/10\/31","projectManager":"권혁원 샌드박스"}
+,{"projectId":1116,"projectCode":"CRM-0035.096","projectNm":"NS홈쇼핑_디지털컨택센터_유상_2022","startedAt":"21\/11\/01","endedAt":"22\/10\/31","projectManager":"민정식"}
+,{"projectId":1117,"projectCode":"CRM-0054.108","projectNm":"AIA생명 콜센터 솔루션 고도화","startedAt":"21\/11\/01","endedAt":"22\/06\/30","projectManager":"김진"}
+,{"projectId":1118,"projectCode":"CRM-0078.104","projectNm":"신한카드\/CTI_유상_2021","startedAt":"21\/11\/01","endedAt":"22\/10\/31","projectManager":"손진호"}
+,{"projectId":1119,"projectCode":"CRM-0205.051","projectNm":"AIG\/VA_VR_유상_2021","startedAt":"21\/11\/01","endedAt":"22\/10\/31","projectManager":"정회은"}
+,{"projectId":1120,"projectCode":"CRM-0325.001","projectNm":"인천국제공항공사 헬프데스크 구매 설치 사업","startedAt":"21\/11\/01","endedAt":"22\/07\/15","projectManager":"김용길"}
+,{"projectId":1121,"projectCode":"ITS-0304.113","projectNm":"2021년 MS Office EA 3년차","startedAt":"21\/11\/01","endedAt":"22\/10\/31","projectManager":"968061"}
+,{"projectId":1122,"projectCode":"ITS-0314.045","projectNm":"현대제철 22년 RPA 유지보수","startedAt":"21\/11\/01","endedAt":"22\/06\/30","projectManager":"신성만"}
+,{"projectId":1123,"projectCode":"CRM-0025.067","projectNm":"신한라이프 AICC 구축 공통 부분 수행 (LGCNS)","startedAt":"21\/10\/18","endedAt":"22\/07\/31","projectManager":"백승인"}
+,{"projectId":1124,"projectCode":"CRM-0030.071","projectNm":"푸르덴셜생명_메신저_유상_2021","startedAt":"21\/10\/15","endedAt":"22\/10\/14","projectManager":"정회은"}
+,{"projectId":1125,"projectCode":"CRM-0035.095","projectNm":"NS홈쇼핑 디지털컨택센터 구축사업 4차 - sm인력 코드 분리","startedAt":"21\/10\/01","endedAt":"22\/10\/31","projectManager":"577309"}
+,{"projectId":1126,"projectCode":"CRM-0215.010","projectNm":"비즈니스온\/유상_2021","startedAt":"21\/10\/01","endedAt":"22\/09\/30","projectManager":"이문용"}
+,{"projectId":1127,"projectCode":"CRM-0287.005","projectNm":"KB손해보험\/유지보수_유상_2021","startedAt":"21\/10\/01","endedAt":"22\/09\/30","projectManager":"정회은"}
+,{"projectId":1128,"projectCode":"CRM-0315.004","projectNm":"이베이코리아\/NI 유지보수_유상_2022","startedAt":"21\/10\/01","endedAt":"26\/03\/31","projectManager":"정회은"}
+,{"projectId":1129,"projectCode":"CRM-0315.005","projectNm":"이베이코리아\/SI 유지보수_유상_2022","startedAt":"21\/10\/01","endedAt":"25\/09\/30","projectManager":"정회은"}
+,{"projectId":1130,"projectCode":"CRM-0319.004","projectNm":"신한금융투자\/DCC-업무고도화","startedAt":"21\/10\/01","endedAt":"22\/06\/30","projectManager":"박인수"}
+,{"projectId":1131,"projectCode":"CRM-0322.001","projectNm":"영리빙코리아\/클라우드옴니_2021","startedAt":"21\/10\/01","endedAt":"22\/09\/30","projectManager":"민정식"}
+,{"projectId":1132,"projectCode":"CRM-0324.001","projectNm":"라이나생명  음성봇 사업","startedAt":"21\/09\/15","endedAt":"22\/10\/14","projectManager":"구동준"}
+,{"projectId":1133,"projectCode":"CRM-0002.078","projectNm":"삼성증권 콜센터 고도화","startedAt":"21\/09\/13","endedAt":"22\/08\/31","projectManager":"고철주"}
+,{"projectId":1134,"projectCode":"CRM-0003.068","projectNm":"삼성화재\/가상상담사 구축을 위한 PBX 라이선스 증설_유지보수","startedAt":"21\/09\/03","endedAt":"25\/09\/02","projectManager":"이문용"}
+,{"projectId":1135,"projectCode":"CRM-0001.060","projectNm":"삼성카드\/InfoPush 서비스 정산 _2021","startedAt":"21\/09\/01","endedAt":"22\/08\/31","projectManager":"이문용"}
+,{"projectId":1136,"projectCode":"CRM-0010.068","projectNm":"신한은행 AI확대사업\/무상","startedAt":"21\/09\/01","endedAt":"22\/08\/31","projectManager":"문기남"}
+,{"projectId":1137,"projectCode":"CRM-0025.066","projectNm":"신한라이프 AICC 구축 공통 부분 수행","startedAt":"21\/09\/01","endedAt":"22\/07\/31","projectManager":"백승인"}
+,{"projectId":1138,"projectCode":"CRM-0078.101","projectNm":"신한카드\/AI컨택센터 VPA 커넥터 라이선스 공급","startedAt":"21\/09\/01","endedAt":"22\/12\/31","projectManager":"손진호"}
+,{"projectId":1139,"projectCode":"CRM-0079.097","projectNm":"KB국민은행\/콜센터고도화_1차_유상_2021","startedAt":"21\/09\/01","endedAt":"22\/08\/31","projectManager":"진재욱"}
+,{"projectId":1140,"projectCode":"CRM-0095.071","projectNm":"GS홈쇼핑 고객센터 고도화(무상)","startedAt":"21\/09\/01","endedAt":"22\/08\/31","projectManager":"안현준"}
+,{"projectId":1141,"projectCode":"CRM-0117.022","projectNm":"아이마켓코리아\/유상_2021","startedAt":"21\/09\/01","endedAt":"22\/08\/31","projectManager":"이문용"}
+,{"projectId":1142,"projectCode":"CRM-0172.039","projectNm":"미래신용정보\/콜센터_유상_2021","startedAt":"21\/09\/01","endedAt":"24\/08\/31","projectManager":"백승인"}
+,{"projectId":1143,"projectCode":"CRM-0231.020","projectNm":"하나카드\/고도화_유상_2021","startedAt":"21\/09\/01","endedAt":"22\/08\/31","projectManager":"안현준"}
+,{"projectId":1144,"projectCode":"CRM-0273.005","projectNm":"2021년 DGB생명보험 인포푸시 갱신 건","startedAt":"21\/09\/01","endedAt":"22\/08\/31","projectManager":"심동열"}
+,{"projectId":1145,"projectCode":"ITS-0303.069","projectNm":"2021년 한솔홈데코 RPA_2차 라이선스 갱신","startedAt":"21\/09\/01","endedAt":"22\/08\/31","projectManager":"김병진"}
+,{"projectId":1146,"projectCode":"R&D-0023.001","projectNm":"DT사업 Smart Factory 영업지원","startedAt":"21\/09\/01","endedAt":"22\/12\/31","projectManager":"김진"}
+,{"projectId":1147,"projectCode":"R&D-0023.002","projectNm":"DT사업 RPA 영업지원","startedAt":"21\/09\/01","endedAt":"22\/12\/31","projectManager":"한동희"}
+,{"projectId":1148,"projectCode":"CRM-0045.106","projectNm":"현대해상\/2021_하이콜고도화프로젝트","startedAt":"21\/08\/18","endedAt":"22\/12\/08","projectManager":"정재영"}
+,{"projectId":1149,"projectCode":"CRM-0010.067","projectNm":"신한은행\/시스템_유상_2021","startedAt":"21\/08\/01","endedAt":"22\/07\/31","projectManager":"문기남"}
+,{"projectId":1150,"projectCode":"CRM-0063.100","projectNm":"메타넷\/유상_2021","startedAt":"21\/08\/01","endedAt":"22\/07\/31","projectManager":"민정식"}
+,{"projectId":1151,"projectCode":"CRM-0078.102","projectNm":"신한카드\/Telecaps_유상_2021","startedAt":"21\/08\/01","endedAt":"22\/07\/31","projectManager":"손진호"}
+,{"projectId":1152,"projectCode":"CRM-0078.103","projectNm":"신한카드\/CMS_유상_2021","startedAt":"21\/08\/01","endedAt":"22\/07\/31","projectManager":"손진호"}
+,{"projectId":1153,"projectCode":"CRM-0128.015","projectNm":"삼성생명\/WFM_유상_2021","startedAt":"21\/08\/01","endedAt":"22\/07\/31","projectManager":"민정식"}
+,{"projectId":1154,"projectCode":"CRM-0148.048","projectNm":"수협\/전자금융_유상_2021","startedAt":"21\/08\/01","endedAt":"22\/07\/31","projectManager":"문기남"}
+,{"projectId":1155,"projectCode":"CRM-0226.012","projectNm":"우리카드\/CDW-Pro_2021","startedAt":"21\/08\/01","endedAt":"22\/07\/31","projectManager":"구동준"}
+,{"projectId":1156,"projectCode":"CRM-0251.010","projectNm":"NH투자증권_대면녹취 확대_대외영업및모바일녹취_무상","startedAt":"21\/08\/01","endedAt":"22\/07\/31","projectManager":"권혁원 샌드박스"}
+,{"projectId":1157,"projectCode":"CRM-0297.019","projectNm":"KT&G\/유상_2021 (15개월)","startedAt":"21\/08\/01","endedAt":"22\/10\/31","projectManager":"안현준"}
+,{"projectId":1158,"projectCode":"ITS-0076.002","projectNm":"오토몬서비스","startedAt":"21\/07\/22","endedAt":"22\/07\/21","projectManager":"김대중"}
+,{"projectId":1159,"projectCode":"MOB-0141.015","projectNm":"KT_2021년 LTE-R 호남선 (500가입자)","startedAt":"21\/07\/19","endedAt":"22\/12\/31","projectManager":"한지훈"}
+,{"projectId":1160,"projectCode":"MOB-0010.053","projectNm":"SKT_2021년_MMS군 스토리지 대개체에 따른 개발지원","startedAt":"21\/07\/13","endedAt":"22\/07\/31","projectManager":"위장민"}
+,{"projectId":1161,"projectCode":"ITS-0058.006","projectNm":"트라이본즈 21년 유지보수","startedAt":"21\/07\/12","endedAt":"22\/07\/11","projectManager":"박성준"}
+,{"projectId":1162,"projectCode":"CRM-0226.011","projectNm":"우리카드 콜센터 재구축","startedAt":"21\/07\/08","endedAt":"22\/06\/30","projectManager":"권혁원 샌드박스"}
+,{"projectId":1163,"projectCode":"MOB-0070.022","projectNm":"KT_SMSF AI 스팸필터링 고도화 2차","startedAt":"21\/07\/06","endedAt":"22\/06\/30","projectManager":"강필우"}
+,{"projectId":1164,"projectCode":"CRM-0011.044","projectNm":"CJ ENM(오쇼핑부문) 영업시스템리뉴얼 CTI 구축 용역","startedAt":"21\/07\/01","endedAt":"22\/07\/03","projectManager":"권혁원 샌드박스"}
+,{"projectId":1165,"projectCode":"CRM-0019.068","projectNm":"씨티은행\/콜센터SW_유상_2021_7월~2022년_6월","startedAt":"21\/07\/01","endedAt":"22\/06\/30","projectManager":"안현준"}
+,{"projectId":1166,"projectCode":"CRM-0055.018","projectNm":"CJ대한통운\/보이는ARS_유상_2021","startedAt":"21\/07\/01","endedAt":"22\/06\/30","projectManager":"민정식"}
+,{"projectId":1167,"projectCode":"CRM-0082.037","projectNm":"에이앤디\/콜센터_유상_2021","startedAt":"21\/07\/01","endedAt":"22\/06\/30","projectManager":"안현준"}
+,{"projectId":1168,"projectCode":"CRM-0082.038","projectNm":"에이엔디\/IPT_유상_2021","startedAt":"21\/07\/01","endedAt":"22\/06\/30","projectManager":"안현준"}
+,{"projectId":1169,"projectCode":"CRM-0176.033","projectNm":"대구은행\/TM센터 30석 증설_유상_2021","startedAt":"21\/07\/01","endedAt":"22\/06\/30","projectManager":"심동열"}
+,{"projectId":1170,"projectCode":"CRM-0192.033","projectNm":"KB캐피탈\/유상_2021","startedAt":"21\/07\/01","endedAt":"22\/06\/30","projectManager":"정회은"}
+,{"projectId":1171,"projectCode":"CRM-0205.047","projectNm":"AIG\/콜센터_유상_2021","startedAt":"21\/07\/01","endedAt":"22\/06\/30","projectManager":"정회은"}
+,{"projectId":1172,"projectCode":"CRM-0231.018","projectNm":"하나카드\/통합TM_유상_2021","startedAt":"21\/07\/01","endedAt":"22\/06\/30","projectManager":"안현준"}
+,{"projectId":1173,"projectCode":"CRM-0311.005","projectNm":"메트라이프생명\/모바일팩스_유상_2021","startedAt":"21\/07\/01","endedAt":"22\/06\/30","projectManager":"87568"}
+,{"projectId":1174,"projectCode":"MOB-0001.011","projectNm":"SKT_2021년_MMS 통합유지보수","startedAt":"21\/07\/01","endedAt":"22\/06\/30","projectManager":"위장민"}
+,{"projectId":1175,"projectCode":"MOB-0025.019","projectNm":"SK_2021년_SKT VSMSS PKG 지원","startedAt":"21\/07\/01","endedAt":"22\/06\/30","projectManager":"위장민"}
+,{"projectId":1176,"projectCode":"MOB-0070.021","projectNm":"KT_SMSF_DB 대개체 개발","startedAt":"21\/06\/29","endedAt":"22\/06\/30","projectManager":"김해영"}
+,{"projectId":1177,"projectCode":"MOB-0141.016","projectNm":"우주텔레콤_KT_2021년 LTE-R 보성-임성리(250가입자)","startedAt":"21\/06\/21","endedAt":"22\/12\/31","projectManager":"한지훈"}
+]

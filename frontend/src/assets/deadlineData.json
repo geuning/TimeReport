@@ -1,0 +1,157 @@
+[
+  {
+    "Deadline_day" : 20220701,
+    "dayOfTheWeek" : 5,
+    "is_Deadline" : "1"
+  },
+  {
+    "Deadline_day" : 20220702,
+    "dayOfTheWeek" : 6,
+    "is_Deadline" : "1"
+  },
+  {
+    "Deadline_day" : 20220703,
+    "dayOfTheWeek" : 7,
+    "is_Deadline" : "1"
+  },
+  {
+    "Deadline_day" : 20220704,
+    "dayOfTheWeek" : 1,
+    "is_Deadline" : "0"
+  },
+  {
+    "Deadline_day" : 20220705,
+    "dayOfTheWeek" : 2,
+    "is_Deadline" : "0"
+  },
+  {
+    "Deadline_day" : 20220706,
+    "dayOfTheWeek" : 3,
+    "is_Deadline" : "0"
+  },
+  {
+    "Deadline_day" : 20220707,
+    "dayOfTheWeek" : 4,
+    "is_Deadline" : "0"
+  },
+  {
+    "Deadline_day" : 20220708,
+    "dayOfTheWeek" : 5,
+    "is_Deadline" : "0"
+  },
+  {
+    "Deadline_day" : 20220709,
+    "dayOfTheWeek" : 6,
+    "is_Deadline" : "0"
+  },
+  {
+    "Deadline_day" : 20220710,
+    "dayOfTheWeek" : 7,
+    "is_Deadline" : "0"
+  },
+  {
+    "Deadline_day" : 20220711,
+    "dayOfTheWeek" : 1,
+    "is_Deadline" : "0"
+  },
+  {
+    "Deadline_day" : 20220712,
+    "dayOfTheWeek" : 2,
+    "is_Deadline" : "0"
+  },
+  {
+    "Deadline_day" : 20220713,
+    "dayOfTheWeek" : 3,
+    "is_Deadline" : "0"
+  },
+  {
+    "Deadline_day" : 20220714,
+    "dayOfTheWeek" : 4,
+    "is_Deadline" : "0"
+  },
+  {
+    "Deadline_day" : 20220715,
+    "dayOfTheWeek" : 5,
+    "is_Deadline" : "0"
+  },
+  {
+    "Deadline_day" : 20220716,
+    "dayOfTheWeek" : 6,
+    "is_Deadline" : "0"
+  },
+  {
+    "Deadline_day" : 20220717,
+    "dayOfTheWeek" : 7,
+    "is_Deadline" : "0"
+  },
+  {
+    "Deadline_day" : 20220718,
+    "dayOfTheWeek" : 1,
+    "is_Deadline" : "0"
+  },
+  {
+    "Deadline_day" : 20220719,
+    "dayOfTheWeek" : 2,
+    "is_Deadline" : "0"
+  },
+  {
+    "Deadline_day" : 20220720,
+    "dayOfTheWeek" : 3,
+    "is_Deadline" : "0"
+  },
+  {
+    "Deadline_day" : 20220721,
+    "dayOfTheWeek" : 4,
+    "is_Deadline" : "0"
+  },
+  {
+    "Deadline_day" : 20220722,
+    "dayOfTheWeek" : 5,
+    "is_Deadline" : "0"
+  },
+  {
+    "Deadline_day" : 20220723,
+    "dayOfTheWeek" : 6,
+    "is_Deadline" : "0"
+  },
+  {
+    "Deadline_day" : 20220724,
+    "dayOfTheWeek" : 7,
+    "is_Deadline" : "0"
+  },
+  {
+    "Deadline_day" : 20220725,
+    "dayOfTheWeek" : 1,
+    "is_Deadline" : "0"
+  },
+  {
+    "Deadline_day" : 20220726,
+    "dayOfTheWeek" : 2,
+    "is_Deadline" : "0"
+  },
+  {
+    "Deadline_day" : 20220727,
+    "dayOfTheWeek" : 3,
+    "is_Deadline" : "0"
+  },
+  {
+    "Deadline_day" : 20220728,
+    "dayOfTheWeek" : 4,
+    "is_Deadline" : "0"
+  },
+  {
+    "Deadline_day" : 20220729,
+    "dayOfTheWeek" : 5,
+    "is_Deadline" : "0"
+  },
+  {
+    "Deadline_day" : 20220730,
+    "dayOfTheWeek" : 6,
+    "is_Deadline" : "0"
+  },
+  {
+    "Deadline_day" : 20220731,
+    "dayOfTheWeek" : 7,
+    "is_Deadline" : "0"
+  }
+]

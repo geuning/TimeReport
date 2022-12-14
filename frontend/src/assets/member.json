@@ -1,0 +1,6 @@
+{"results":[{"columns":[{"name":"MEMBER_ID","type":"NUMBER"},{"name":"MEMBER_CODE","type":"VARCHAR2"},{"name":"PWD","type":"VARCHAR2"},{"name":"MEMBER_NM","type":"VARCHAR2"},{"name":"GRADE","type":"CHAR"},{"name":"DEPT_NM","type":"VARCHAR2"},{"name":"DEPT_CODE","type":"VARCHAR2"},{"name":"PHONE_NUMBER","type":"VARCHAR2"}],"items":
+[
+{"member_id":7,"member_code":"12345","pwd":"12345","member_nm":"테스트이름","grade":"1","dept_nm":"웹개발","dept_code":"12345","phone_number":"0001112345"}
+,{"member_id":8,"member_code":"54321","pwd":"54321","member_nm":"테스트이름","grade":"2","dept_nm":"웹개발","dept_code":"54321","phone_number":"0001112345"}
+,{"member_id":9,"member_code":"00000","pwd":"00000","member_nm":"테스트이름","grade":"3","dept_nm":"웹개발","dept_code":"00000","phone_number":"0001112345"}
+]}]}
