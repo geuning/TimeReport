@@ -30,7 +30,7 @@ import com.hansol.timereport.domain.deadline.entity.Deadline;
 import com.hansol.timereport.domain.deadline.repository.DeadlineRepository;
 import com.hansol.timereport.global.exception.BaseException;
 import com.hansol.timereport.global.response.BaseResponseStatus;
-import com.hansol.timereport.infra.SlackAlert;
+import com.hansol.timereport.infra.slack.SlackAlert;
 import com.hansol.timereport.domain.member.service.MemberService;
 import com.hansol.timereport.api.member.dto.MemberDto;
 import com.hansol.timereport.domain.member.entity.Member;

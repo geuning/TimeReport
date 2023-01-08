@@ -1,4 +1,4 @@
-package com.hansol.timereport.infra;
+package com.hansol.timereport.infra.slack;
 
 import javax.validation.constraints.NotBlank;
 
