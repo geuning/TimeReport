@@ -11,7 +11,7 @@ import org.springframework.retry.annotation.EnableRetry;
 import org.springframework.scheduling.annotation.EnableScheduling;
 import org.springframework.session.data.redis.config.annotation.web.http.EnableRedisHttpSession;
 
-import com.hansol.timereport.util.SlackProperties;
+import com.hansol.timereport.infra.SlackProperties;
 
 @EnableRetry
 @EnableJpaAuditing

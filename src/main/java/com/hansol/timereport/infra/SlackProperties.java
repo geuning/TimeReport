@@ -1,4 +1,4 @@
-package com.hansol.timereport.util;
+package com.hansol.timereport.infra;
 
 import javax.validation.constraints.NotBlank;
 

@@ -30,7 +30,7 @@ import com.hansol.timereport.domain.deadline.entity.Deadline;
 import com.hansol.timereport.domain.deadline.repository.DeadlineRepository;
 import com.hansol.timereport.global.exception.BaseException;
 import com.hansol.timereport.global.response.BaseResponseStatus;
-import com.hansol.timereport.util.SlackUtil;
+import com.hansol.timereport.infra.SlackAlert;
 import com.hansol.timereport.domain.member.service.MemberService;
 import com.hansol.timereport.api.member.dto.MemberDto;
 import com.hansol.timereport.domain.member.entity.Member;
@@ -60,11 +60,11 @@ public class PerformanceServiceImpl implements PerformanceService {
 	private final PerformanceQueryRepository performanceQueryRepository;
 	private final PlanQueryRepository planQueryRepository;
 	private final DeadlineRepository deadlineRepository;
-	private final SlackUtil slackAlarm;
+	private final SlackAlert slackAlarm;
 
 	public PerformanceServiceImpl(PerformanceRepository performanceRepository, MemberService memberService,
 			BiWeeklyService biWeeklyService, PerformanceQueryRepository performanceQueryRepository,
-			PlanQueryRepository planQueryRepository, DeadlineRepository deadlineRepository, SlackUtil slackAlarm) {
+			PlanQueryRepository planQueryRepository, DeadlineRepository deadlineRepository, SlackAlert slackAlarm) {
 		this.performanceRepository = performanceRepository;
 		this.memberService = memberService;
 		this.biWeeklyService = biWeeklyService;
