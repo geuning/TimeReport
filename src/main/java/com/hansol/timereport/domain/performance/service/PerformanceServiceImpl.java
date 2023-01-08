@@ -1,7 +1,7 @@
 package com.hansol.timereport.domain.performance.service;
 
-import static com.hansol.timereport.global.response.BaseResponseStatus.NOT_EXIST_PERFORMANCE;
-import static com.hansol.timereport.global.response.BaseResponseStatus.NOT_TO_DELETE_PLANS;
+import static com.hansol.timereport.global.exception.response.BaseResponseStatus.NOT_EXIST_PERFORMANCE;
+import static com.hansol.timereport.global.exception.response.BaseResponseStatus.NOT_TO_DELETE_PLANS;
 import static java.util.stream.Collectors.groupingBy;
 import static java.util.stream.Collectors.joining;
 import static java.util.stream.Collectors.mapping;
@@ -29,7 +29,7 @@ import com.hansol.timereport.api.biweekly.dto.HolidayDto;
 import com.hansol.timereport.domain.deadline.entity.Deadline;
 import com.hansol.timereport.domain.deadline.repository.DeadlineRepository;
 import com.hansol.timereport.global.exception.BaseException;
-import com.hansol.timereport.global.response.BaseResponseStatus;
+import com.hansol.timereport.global.exception.response.BaseResponseStatus;
 import com.hansol.timereport.infra.slack.SlackAlert;
 import com.hansol.timereport.domain.member.service.MemberService;
 import com.hansol.timereport.api.member.dto.MemberDto;

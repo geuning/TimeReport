@@ -1,4 +1,4 @@
-package com.hansol.timereport.global.response;
+package com.hansol.timereport.global.exception.response;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;

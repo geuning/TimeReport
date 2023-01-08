@@ -1,6 +1,6 @@
 package com.hansol.timereport.domain.plan.service;
 
-import static com.hansol.timereport.global.response.BaseResponseStatus.NOT_TO_DELETE_PLANS;
+import static com.hansol.timereport.global.exception.response.BaseResponseStatus.NOT_TO_DELETE_PLANS;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
@@ -18,7 +18,7 @@ import org.springframework.transaction.annotation.Transactional;
 
 import com.hansol.timereport.domain.biweekly.service.BiWeeklyService;
 import com.hansol.timereport.global.exception.BaseException;
-import com.hansol.timereport.global.response.BaseResponseStatus;
+import com.hansol.timereport.global.exception.response.BaseResponseStatus;
 import com.hansol.timereport.domain.member.service.MemberService;
 import com.hansol.timereport.domain.member.entity.Member;
 import com.hansol.timereport.domain.performance.service.PerformanceService;

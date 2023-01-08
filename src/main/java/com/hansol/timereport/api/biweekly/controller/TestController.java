@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.hansol.timereport.domain.biweekly.service.BiWeeklyService;
-import com.hansol.timereport.global.response.BaseResponse;
+import com.hansol.timereport.global.exception.response.BaseResponse;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

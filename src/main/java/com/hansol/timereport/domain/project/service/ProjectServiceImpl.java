@@ -19,7 +19,7 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
 import com.hansol.timereport.global.exception.BaseException;
-import com.hansol.timereport.global.response.BaseResponseStatus;
+import com.hansol.timereport.global.exception.response.BaseResponseStatus;
 import com.hansol.timereport.domain.member.service.MemberService;
 import com.hansol.timereport.domain.member.entity.Member;
 import com.hansol.timereport.domain.performance.service.PerformanceService;

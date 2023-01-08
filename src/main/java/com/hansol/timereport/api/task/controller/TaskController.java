@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.hansol.timereport.global.response.BaseResponse;
+import com.hansol.timereport.global.exception.response.BaseResponse;
 import com.hansol.timereport.domain.task.service.TaskService;
 import com.hansol.timereport.domain.task.entity.Task;
 

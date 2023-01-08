@@ -1,11 +1,11 @@
 package com.hansol.timereport.global.exception;
 
-import static com.hansol.timereport.global.response.BaseResponseStatus.ADVICE_BEAN_VALIDATION;
-import static com.hansol.timereport.global.response.BaseResponseStatus.ADVICE_INVALID_URI_PARAM;
-import static com.hansol.timereport.global.response.BaseResponseStatus.ADVICE_INVALID_URI_PATH;
-import static com.hansol.timereport.global.response.BaseResponseStatus.ADVICE_NO_SESSION;
-import static com.hansol.timereport.global.response.BaseResponseStatus.ADVICE_REQ_BODY_BINDING;
-import static com.hansol.timereport.global.response.BaseResponseStatus.SERVER_ERROR;
+import static com.hansol.timereport.global.exception.response.BaseResponseStatus.ADVICE_BEAN_VALIDATION;
+import static com.hansol.timereport.global.exception.response.BaseResponseStatus.ADVICE_INVALID_URI_PARAM;
+import static com.hansol.timereport.global.exception.response.BaseResponseStatus.ADVICE_INVALID_URI_PATH;
+import static com.hansol.timereport.global.exception.response.BaseResponseStatus.ADVICE_NO_SESSION;
+import static com.hansol.timereport.global.exception.response.BaseResponseStatus.ADVICE_REQ_BODY_BINDING;
+import static com.hansol.timereport.global.exception.response.BaseResponseStatus.SERVER_ERROR;
 
 import java.util.Objects;
 
@@ -23,8 +23,8 @@ import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
 import org.springframework.web.method.annotation.MethodArgumentTypeMismatchException;
 
-import com.hansol.timereport.global.response.BaseResponse;
-import com.hansol.timereport.global.response.BaseResponseStatus;
+import com.hansol.timereport.global.exception.response.BaseResponse;
+import com.hansol.timereport.global.exception.response.BaseResponseStatus;
 
 import lombok.extern.slf4j.Slf4j;
 

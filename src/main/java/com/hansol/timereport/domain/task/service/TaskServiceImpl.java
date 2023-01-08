@@ -1,6 +1,6 @@
 package com.hansol.timereport.domain.task.service;
 
-import static com.hansol.timereport.global.response.BaseResponseStatus.NOT_EXIST_TASK;
+import static com.hansol.timereport.global.exception.response.BaseResponseStatus.NOT_EXIST_TASK;
 
 import java.util.List;
 

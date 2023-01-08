@@ -1,9 +1,9 @@
 package com.hansol.timereport.domain.biweekly.service;
 
-import static com.hansol.timereport.global.response.BaseResponseStatus.INSERT_ERROR_TWO_WEEKS;
-import static com.hansol.timereport.global.response.BaseResponseStatus.INVALID_DATE_FORMAT;
-import static com.hansol.timereport.global.response.BaseResponseStatus.NOT_EXIST_HOLIDAY;
-import static com.hansol.timereport.global.response.BaseResponseStatus.NOT_EXIST_TWO_WEEKS;
+import static com.hansol.timereport.global.exception.response.BaseResponseStatus.INSERT_ERROR_TWO_WEEKS;
+import static com.hansol.timereport.global.exception.response.BaseResponseStatus.INVALID_DATE_FORMAT;
+import static com.hansol.timereport.global.exception.response.BaseResponseStatus.NOT_EXIST_HOLIDAY;
+import static com.hansol.timereport.global.exception.response.BaseResponseStatus.NOT_EXIST_TWO_WEEKS;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;

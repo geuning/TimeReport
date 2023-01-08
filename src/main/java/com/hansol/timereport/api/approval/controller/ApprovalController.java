@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.SessionAttribute;
 import com.hansol.timereport.global.auth.Authority;
 import com.hansol.timereport.global.constant.Grade;
 import com.hansol.timereport.global.constant.SessionConst;
-import com.hansol.timereport.global.response.BaseResponse;
+import com.hansol.timereport.global.exception.response.BaseResponse;
 import com.hansol.timereport.domain.approval.service.ApprovalService;
 import com.hansol.timereport.api.approval.dto.ApprovalDto;
 import com.hansol.timereport.api.approval.dto.ApprovalReq;

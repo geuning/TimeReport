@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.hansol.timereport.global.auth.Authority;
 import com.hansol.timereport.global.constant.Grade;
-import com.hansol.timereport.global.response.BaseResponse;
+import com.hansol.timereport.global.exception.response.BaseResponse;
 import com.hansol.timereport.domain.member.service.MemberService;
 import com.hansol.timereport.api.member.dto.MemberDto;
 import com.hansol.timereport.api.member.dto.MemberLoginDto;

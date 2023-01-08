@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.SessionAttribute;
 
 import com.hansol.timereport.global.constant.SessionConst;
-import com.hansol.timereport.global.response.BaseResponse;
+import com.hansol.timereport.global.exception.response.BaseResponse;
 import com.hansol.timereport.domain.performance.service.PerformanceService;
 import com.hansol.timereport.api.performance.dto.PerformanceDeleteReq;
 import com.hansol.timereport.api.performance.dto.PerformanceDto;
