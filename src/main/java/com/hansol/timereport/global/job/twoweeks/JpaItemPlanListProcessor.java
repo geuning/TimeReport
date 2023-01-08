@@ -1,11 +1,11 @@
 package com.hansol.timereport.global.job.twoweeks;
 
-import com.hansol.timereport.biweekly.BiWeeklyService;
-import com.hansol.timereport.controller.member.entity.Member;
-import com.hansol.timereport.plan.PlanService;
-import com.hansol.timereport.plan.entity.Plan;
-import com.hansol.timereport.task.TaskService;
-import com.hansol.timereport.task.dto.TaskDto;
+import com.hansol.timereport.domain.biweekly.service.BiWeeklyService;
+import com.hansol.timereport.domain.member.entity.Member;
+import com.hansol.timereport.domain.plan.service.PlanService;
+import com.hansol.timereport.domain.plan.entity.Plan;
+import com.hansol.timereport.domain.task.service.TaskService;
+import com.hansol.timereport.api.task.dto.TaskDto;
 
 import lombok.Builder;
 import lombok.extern.slf4j.Slf4j;

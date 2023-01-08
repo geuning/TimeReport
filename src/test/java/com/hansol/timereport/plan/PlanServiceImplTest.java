@@ -3,6 +3,7 @@ package com.hansol.timereport.plan;
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
 
+import com.hansol.timereport.domain.plan.service.PlanService;
 import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.jupiter.api.AfterAll;
@@ -24,9 +25,9 @@ import org.springframework.test.context.junit.jupiter.SpringExtension;
 import org.springframework.test.context.web.WebAppConfiguration;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.hansol.timereport.controller.member.MemberService;
-import com.hansol.timereport.plan.repository.PlanRepository;
-import com.hansol.timereport.task.TaskService;
+import com.hansol.timereport.domain.member.service.MemberService;
+import com.hansol.timereport.domain.plan.repository.PlanRepository;
+import com.hansol.timereport.domain.task.service.TaskService;
 
 @ActiveProfiles("local")
 @SpringBootTest

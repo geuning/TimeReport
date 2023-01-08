@@ -15,7 +15,7 @@ import com.hansol.timereport.global.auth.Authority;
 import com.hansol.timereport.global.constant.Grade;
 import com.hansol.timereport.global.constant.SessionConst;
 import com.hansol.timereport.global.exception.BaseException;
-import com.hansol.timereport.controller.member.MemberService;
+import com.hansol.timereport.domain.member.service.MemberService;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

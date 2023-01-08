@@ -19,8 +19,8 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.retry.annotation.Backoff;
 import org.springframework.retry.annotation.Retryable;
 
-import com.hansol.timereport.performance.entity.Performance;
-import com.hansol.timereport.performance.repository.PerformanceRepository;
+import com.hansol.timereport.domain.performance.entity.Performance;
+import com.hansol.timereport.domain.performance.repository.PerformanceRepository;
 
 import lombok.extern.slf4j.Slf4j;
 

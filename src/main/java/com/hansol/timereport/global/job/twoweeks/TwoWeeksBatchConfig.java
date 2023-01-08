@@ -20,13 +20,13 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.retry.annotation.Backoff;
 import org.springframework.retry.annotation.Retryable;
 
-import com.hansol.timereport.biweekly.BiWeeklyService;
-import com.hansol.timereport.controller.member.entity.Member;
-import com.hansol.timereport.performance.PerformanceService;
-import com.hansol.timereport.performance.entity.Performance;
-import com.hansol.timereport.plan.PlanService;
-import com.hansol.timereport.plan.entity.Plan;
-import com.hansol.timereport.task.TaskService;
+import com.hansol.timereport.domain.biweekly.service.BiWeeklyService;
+import com.hansol.timereport.domain.member.entity.Member;
+import com.hansol.timereport.domain.performance.service.PerformanceService;
+import com.hansol.timereport.domain.performance.entity.Performance;
+import com.hansol.timereport.domain.plan.service.PlanService;
+import com.hansol.timereport.domain.plan.entity.Plan;
+import com.hansol.timereport.domain.task.service.TaskService;
 
 import lombok.extern.slf4j.Slf4j;
 

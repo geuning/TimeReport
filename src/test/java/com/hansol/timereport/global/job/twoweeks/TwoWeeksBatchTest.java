@@ -26,9 +26,9 @@ import org.springframework.test.context.ActiveProfiles;
 import org.springframework.test.context.junit.jupiter.SpringExtension;
 import org.springframework.test.context.web.WebAppConfiguration;
 
-import com.hansol.timereport.controller.member.repository.MemberRepository;
-import com.hansol.timereport.performance.repository.PerformanceRepository;
-import com.hansol.timereport.plan.repository.PlanRepository;
+import com.hansol.timereport.domain.member.repository.MemberRepository;
+import com.hansol.timereport.domain.performance.repository.PerformanceRepository;
+import com.hansol.timereport.domain.plan.repository.PlanRepository;
 
 
 @SpringBootTest(classes = {TwoWeeksJobTestConfiguration.class})
