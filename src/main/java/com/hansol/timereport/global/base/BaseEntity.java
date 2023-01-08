@@ -1,4 +1,4 @@
-package com.hansol.timereport.global.entity;
+package com.hansol.timereport.global.base;
 
 import java.time.LocalDateTime;
 

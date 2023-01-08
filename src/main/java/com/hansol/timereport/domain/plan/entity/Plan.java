@@ -14,7 +14,7 @@ import javax.persistence.Table;
 import org.hibernate.annotations.DynamicInsert;
 import org.hibernate.annotations.DynamicUpdate;
 
-import com.hansol.timereport.global.entity.BaseEntity;
+import com.hansol.timereport.global.base.BaseEntity;
 import com.hansol.timereport.domain.member.entity.Member;
 import com.hansol.timereport.api.plan.dto.PlanSaveReq;
 
