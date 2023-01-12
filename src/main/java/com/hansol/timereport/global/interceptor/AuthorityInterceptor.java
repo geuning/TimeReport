@@ -1,7 +1,7 @@
 package com.hansol.timereport.global.interceptor;
 
-import static com.hansol.timereport.global.exception.response.BaseResponseStatus.INVALID_USER;
-import static com.hansol.timereport.global.exception.response.BaseResponseStatus.NOT_EXIST_SESSION;
+import static com.hansol.timereport.global.response.BaseResponseStatus.INVALID_USER;
+import static com.hansol.timereport.global.response.BaseResponseStatus.NOT_EXIST_SESSION;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;

@@ -1,9 +1,9 @@
 package com.hansol.timereport.domain.biweekly.service;
 
-import static com.hansol.timereport.global.exception.response.BaseResponseStatus.INSERT_ERROR_TWO_WEEKS;
-import static com.hansol.timereport.global.exception.response.BaseResponseStatus.INVALID_DATE_FORMAT;
-import static com.hansol.timereport.global.exception.response.BaseResponseStatus.NOT_EXIST_HOLIDAY;
-import static com.hansol.timereport.global.exception.response.BaseResponseStatus.NOT_EXIST_TWO_WEEKS;
+import static com.hansol.timereport.global.response.BaseResponseStatus.INSERT_ERROR_TWO_WEEKS;
+import static com.hansol.timereport.global.response.BaseResponseStatus.INVALID_DATE_FORMAT;
+import static com.hansol.timereport.global.response.BaseResponseStatus.NOT_EXIST_HOLIDAY;
+import static com.hansol.timereport.global.response.BaseResponseStatus.NOT_EXIST_TWO_WEEKS;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
@@ -16,7 +16,6 @@ import java.util.stream.Collectors;
 import com.hansol.timereport.domain.biweekly.repository.HolidayRepository;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
-import org.springframework.util.comparator.Comparators;
 
 import com.hansol.timereport.api.biweekly.dto.HolidayDto;
 import com.hansol.timereport.api.biweekly.dto.TwoWeeksBoxDto;

@@ -17,7 +17,7 @@ import com.hansol.timereport.api.deadline.dto.DeadlineReq;
 import com.hansol.timereport.domain.deadline.entity.Deadline;
 import com.hansol.timereport.domain.deadline.repository.DeadlineRepository;
 import com.hansol.timereport.global.exception.BaseException;
-import com.hansol.timereport.global.exception.response.BaseResponseStatus;
+import com.hansol.timereport.global.response.BaseResponseStatus;
 import com.hansol.timereport.domain.performance.service.PerformanceService;
 
 import lombok.extern.slf4j.Slf4j;

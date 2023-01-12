@@ -1,4 +1,4 @@
-package com.hansol.timereport.global.exception.response;
+package com.hansol.timereport.global.response;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.annotation.JsonPropertyOrder;

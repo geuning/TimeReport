@@ -1,6 +1,6 @@
 package com.hansol.timereport.domain.member.service;
 
-import static com.hansol.timereport.global.exception.response.BaseResponseStatus.EMPTY_USER;
+import static com.hansol.timereport.global.response.BaseResponseStatus.EMPTY_USER;
 
 import java.util.List;
 import java.util.stream.Collectors;
@@ -17,7 +17,7 @@ import org.springframework.transaction.annotation.Transactional;
 
 import com.hansol.timereport.global.constant.SessionConst;
 import com.hansol.timereport.global.exception.BaseException;
-import com.hansol.timereport.global.exception.response.BaseResponseStatus;
+import com.hansol.timereport.global.response.BaseResponseStatus;
 
 @Service
 @Transactional(readOnly = true)

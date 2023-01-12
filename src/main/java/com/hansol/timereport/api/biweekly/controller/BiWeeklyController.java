@@ -15,7 +15,7 @@ import com.hansol.timereport.domain.biweekly.service.BiWeeklyService;
 import com.hansol.timereport.api.biweekly.dto.TwoWeeksBoxDto;
 import com.hansol.timereport.global.job.approval.ApprovalBatchConfig;
 import com.hansol.timereport.global.job.twoweeks.TwoWeeksBatchConfig;
-import com.hansol.timereport.global.exception.response.BaseResponse;
+import com.hansol.timereport.global.response.BaseResponse;
 
 import lombok.extern.slf4j.Slf4j;
 
